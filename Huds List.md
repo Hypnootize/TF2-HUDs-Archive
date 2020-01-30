@@ -164,6 +164,7 @@ Zoub | [Album](https://imgur.com/a/ie9GL) | [GitHub](https://github.com/Hypnooti
 
 HUD | Screenshots | Repository | Direct Download
 --- | ----------- | ---------- | ---------------
+Carrot | [Album](https://camo.githubusercontent.com/6d634e292eeee313d405d9ba6632187f2cc6a1d2/687474703a2f2f692e696d6775722e636f6d2f676468594633782e706e67) | [GitHub](https://github.com/JarateKing/_CarrotHUD) | [Download](https://github.com/JarateKing/_CarrotHUD/archive/master.zip)
 d1zr1ght |  |  | 
 Doggy |  |  | 
 Doodle |  |  |
