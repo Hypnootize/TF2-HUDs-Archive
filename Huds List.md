@@ -172,4 +172,5 @@ mhud | [Album](https://imgur.com/a/KVHaw) | [GitHub](https://github.com/Marblr/m
 Magnum | [Album](https://imgur.com/a/BF7gx) |  | [Download](https://www.dropbox.com/s/66754seda1sc68q/MagnumHUD.rar?dl=0)
 Original Mannterface | [Album](https://imgur.com/a/xHE0o) | [GitHub](https://github.com/mannterface/Mannterface) | [Download](https://github.com/mannterface/Mannterface/archive/master.zip)
 Overwatch | [Album](https://imgur.com/a/U1gfV) | [GitHub](https://github.com/nimtra/overwatchhud) | [Download](https://github.com/nimtra/overwatchhud/archive/master.zip)
+Jahud | [Album](https://imgur.com/a/stBvYOz) | [Github](https://github.com/JarateKing/jahud-tf2) | [Download](https://github.com/JarateKing/jahud-tf2/archive/master.zip)
 Smes | [Album](https://imgur.com/a/jpJmf) | [GitHub](https://github.com/smesi/smeshud) | [Download](https://github.com/Smesi/smeshud/archive/master.zip)
