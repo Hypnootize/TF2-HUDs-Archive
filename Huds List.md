@@ -160,7 +160,7 @@ Yahud MX | Whayay | [Album](https://imgur.com/a/59N9S) | [GitHub](https://github
 Yahud Old | Whayay | [Album](https://imgur.com/a/oHoQ2) | [GitHub](https://github.com/Hypnootize/Yahud-Old) | | [TFTV](https://www.teamfortress.tv/8336/yahud) | [Download](https://github.com/Hypnootize/Yahud-Old/archive/master.zip)
 Yayahud | yttrium | [Album](https://imgur.com/a/LCENr) | [GitHub](https://github.com/Hypnootize/yayahud) | | [TFTV](https://www.teamfortress.tv/26847/yayahud) | [Download](https://github.com/Hypnootize/yayahud/archive/master.zip)
 Zhud | reika | [Album](https://imgur.com/a/3LOOs) | [GitHub](https://github.com/Hypnootize/Z-Hud) | | [TFTV](https://www.teamfortress.tv/22289/zhud) | [Download](https://github.com/Hypnootize/Z-Hud/archive/master.zip)
-Zephyr Hud | Alex_f | [Album](https://imgur.com/a/fJXZ90x) | | [TFTV](https://www.teamfortress.tv/52877/zephyrhud) | [Download](https://www.dropbox.com/s/mlqzfnmcak00g5r/zephyrhud.zip?dl=0)
+Zephyr Hud | Alex_f | [Album](https://imgur.com/a/fJXZ90x) | | | [TFTV](https://www.teamfortress.tv/52877/zephyrhud) | [Download](https://www.dropbox.com/s/mlqzfnmcak00g5r/zephyrhud.zip?dl=0)
 Zim Hud | Zimmy | [Album](https://imgur.com/a/kw4Ou) | [GitHub](https://github.com/Hypnootize/Zim-Hud) | | [TFTV](https://www.teamfortress.tv/17805/zimhud) | [Download](https://github.com/Hypnootize/Zim-Hud/archive/master.zip)
 Zoub Hud | Zoub | [Album](https://imgur.com/a/ie9GL) | [GitHub](https://github.com/Hypnootize/Zoub-Hud) | | | [Download](https://github.com/Hypnootize/Zoub-Hud/archive/master.zip)
 
