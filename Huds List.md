@@ -52,6 +52,7 @@ Flame Hud | Flame | [Album](https://imgur.com/a/NHBdv) | [GitHub](https://github
 Flarepunch | omnibombulator | [Album](https://imgur.com/a/RFFlIS9) | [GitHub](https://github.com/omnibombulator/Flarepunch) | | [TFTV](https://www.teamfortress.tv/48113/hud-flarepunch) | [Download](https://github.com/omnibombulator/Flarepunch/archive/master.zip)
 Flat Hud | Flatline | [Album](https://imgur.com/a/k8Dff) | [GitHub](https://github.com/Hypnootize/Flat-Hud) | [Steam](https://steamcommunity.com/groups/flathud) | | [Download](https://github.com/Hypnootize/Flat-Hud/archive/master.zip)
 FlawHUD | CriticalFlaw | [Album](https://imgur.com/a/0whDjXr) | [GitHub](https://github.com/CriticalFlaw/FlawHUD) | [Steam](https://steamcommunity.com/groups/FlawHUD) | [GameBanana](https://gamebanana.com/guis/32187) | [Download](https://github.com/CriticalFlaw/FlawHUD/archive/master.zip)
+Franken Hud | The Kins | [Screen](https://files.gamebanana.com/img/ss/guis/24353b.jpg) | [GitHub](https://github.com/thekins/frankenhud/) | [Steam](https://steamcommunity.com/groups/frankenhud) | [GameBanana](https://gamebanana.com/guis/24353) | [Download](https://github.com/TheKins/frankenhud/archive/master.zip)
 Garm3n 4MP | Garm3n | [Album](https://imgur.com/a/zbk2fuk) | | | | [Download](https://www.dropbox.com/s/a74ryegqggl3enq/Garm3n%204MP.rar?dl=0)
 Garm3n 7MF | Garm3n | [Album](https://imgur.com/a/lwAFh) | [GitHub](https://github.com/Hypnootize/Garm3n-7MF) | | | [Download](https://github.com/Hypnootize/Garm3n-7MF/archive/master.zip)
 Garm3n 8MG | Garm3n | [Album](https://imgur.com/a/0Mn7x) | [GitHub](https://github.com/Hypnootize/Garm3n-8MG) | | | [Download](https://github.com/Hypnootize/Garm3n-8MG/archive/master.zip)
@@ -107,12 +108,11 @@ Milky Hud | Revilo | [Album](https://imgur.com/a/d74Up) | [GitHub](https://githu
 MK Hud | nimtra | [Album](https://imgur.com/a/wHHbv) | [GitHub](https://github.com/nimtra/mkHUD) | [Steam](https://steamcommunity.com/groups/mkhud) | [TFTV](https://www.teamfortress.tv/33871/mkhud/) | [Download](https://github.com/nimtra/mkhud/archive/master.zip)
 MN Hud | | [Album](https://imgur.com/a/YYTQV) | [GitHub](https://github.com/Hypnootize/MN-Hud) | | | [Download](https://github.com/Hypnootize/MN-Hud/archive/master.zip)
 Moes Hud | Mo | [Album](https://imgur.com/a/Hjcto) | [GitHub](https://github.com/MoeLesting/MoesHUD) | [Steam](https://steamcommunity.com/groups/MoesHUD) | | [Download](https://github.com/MoeLesting/moeshud/archive/master.zip)
-Noto Hud | omnibombulator  | [Album](https://imgur.com/a/mrQDL) | [GitHub](https://github.com/omnibombulator/noto) | [Steam](https://steamcommunity.com/groups/notohud) | [TFTV](https://www.teamfortress.tv/16965/notohud) | [Download](https://github.com/omnibombulator/noto/archive/master.zip)
 Noto-KN | | [Album](https://imgur.com/a/Hw6Yv) | [GitHub](https://github.com/Hypnootize/Noto-KN-Hud) | | | [Download](https://github.com/Hypnootize/Noto-KN-Hud/archive/master.zip)
 Nühud | n0kk | [Album](https://imgur.com/a/QjJSX) | [GitHub](https://github.com/n0kk/nuhud) | | | [Download](https://github.com/n0kk/nuhud/archive/master.zip)
 OMP Hud | OMP | [Album](https://imgur.com/a/mCoYj) | [GitHub](https://github.com/Hypnootize/OMP-Hud) | [Steam](https://steamcommunity.com/groups/tf2hud) | [ETF2L](http://etf2l.org/forum/customise/topic-22824/) | [Download](https://github.com/Hypnootize/OMP-Hud/archive/master.zip)
 OMP Redux | Flatline | [Album](https://imgur.com/a/XCNB1) | [GitHub](https://github.com/Hypnootize/OMP-Hud-Redux) | [Steam](https://steamcommunity.com/groups/omphudredux) | [TFTV](https://www.teamfortress.tv/33896/omphud-redux) | [Download](https://github.com/Hypnootize/OMP-Hud-Redux/archive/master.zip)
-OTL Hud | | [Album](https://imgur.com/a/MC2zy) | [GitHub](https://github.com/Hypnootize/OTL-Hud) | | | [Download](https://github.com/Hypnootize/OTL-Hud/archive/master.zip)
+OTL Hud | otl | [Album](https://imgur.com/a/MC2zy) | [GitHub](https://github.com/Hypnootize/OTL-Hud) | | | [Download](https://github.com/Hypnootize/OTL-Hud/archive/master.zip)
 Oxide Hud | Oxide | [Album](https://imgur.com/a/R9a13) | [GitHub](https://github.com/Hypnootize/Oxide-Hud) | | | [Download](https://github.com/Hypnootize/Oxide-Hud/archive/master.zip)
 Oxide Lansky | Lansky | [Album](https://imgur.com/a/ZUl8l) | [GitHub](https://github.com/Hypnootize/Lanskys-Oxide) | | | [Download](https://github.com/Hypnootize/Lanskys-Oxide/archive/master.zip)
 Placebo Hud | Kermit | [Album](https://i.imgur.com/zktLEuq.jpg) | | | | [Download](https://www.dropbox.com/s/qris6d4c5baakve/PlaceboHUD.7z?dl=0)
@@ -168,13 +168,94 @@ Zoub Hud | Zoub | [Album](https://imgur.com/a/ie9GL) | [GitHub](https://github.c
 
 HUD | Creator & Maintainer | Screenshots | Repository | Steam Group | Discussion Thread | Direct Download
 --- | -------------------- | ----------- | ---------- | ----------- | ----------------- | ---------------
-Carrot Hud | JarateKing | [Album](https://camo.githubusercontent.com/6d634e292eeee313d405d9ba6632187f2cc6a1d2/687474703a2f2f692e696d6775722e636f6d2f676468594633782e706e67) | [GitHub](https://github.com/JarateKing/_CarrotHUD) | | | [Download](https://github.com/JarateKing/_CarrotHUD/archive/master.zip)
-d1zr1ght | d1zright | | | | |  
-Doggy Hud | TV Hot Doggy | | | | | 
-Doodle Hud | | | | | 
+8Bit Hud |  | [Album](https://camo.githubusercontent.com/6d634e292eeee313d405d9ba6632187f2cc6a1d2/687474703a2f2f692e696d6775722e636f6d2f676468594633782e706e67) | [GitHub](https://github.com/JarateKing/_CarrotHUD) | | | [Download](https://github.com/JarateKing/_CarrotHUD/archive/master.zip)
+512561891 | | | | | |
+Anthals Hud | | | | | |
+Barrie Hud | | | | | |
+Blade Hud | Gunblade | | | | |
+BXHud Divine | | | | | |
+BXHud Vile | | | | | |
+Carrot Hud | JarateKing | [Screen](https://camo.githubusercontent.com/6d634e292eeee313d405d9ba6632187f2cc6a1d2/687474703a2f2f692e696d6775722e636f6d2f676468594633782e706e67) | [GitHub](https://github.com/JarateKing/_CarrotHUD) | | | [Download](https://github.com/JarateKing/_CarrotHUD/archive/master.zip)
+Clown Hud | | | | | |
+Community Hud | | | | | |
+Cozen Hud | | | | | |
+d1zr1ght | d1zright | | | | |
+DA_Hud | | | | | |
+Damara Hud | | | | | |
+Darkisto Hud | | | | | |
+Deadfires Hud | | | | | |
+DipHUD | | | | | |
+Dod Hud | | | | | |
+Doggy Hud | TV Hot Doggy | | | | |
+Doodle Hud | Doodles | [Album](https://imgur.com/a/TiqWv) | [GitHub](https://github.com/DougieDoodles/doodlehud) | | | [Download](https://github.com/DougieDoodles/doodlehud/archive/master.zip) 
+DrooHUD | Rawrsor | [Album](https://github.com/Rawrsor/DrooHUD/tree/master/Screenshots) | [GitHub](https://github.com/DougieDoodles/doodlehud) | [GitHub](https://github.com/Rawrsor/DrooHUD) | | | [Download](https://github.com/Rawrsor/DrooHUD/archive/master.zip) 
+Dyde Hud | | | | | |
+DZQ Hud | | | | | |
+Flame Hud 2011 | | | | | |
+Flux Hud | fluxxy | [Album](https://imgur.com/a/2lbZr) | [GitHub](https://github.com/fluxxy/fluxhud) | | [TFTV](https://www.teamfortress.tv/10935) | [Download](https://github.com/fluxxy/fluxhud/archive/master.zip) 
+FN Hud |  | [Screen](http://i.imgur.com/tfFKHDb.png) | | | | [Download](https://www.dropbox.com/s/elx9h8pj5uzlph4/fnHUD.rar?dl=0) 
+FosterHUD | | | | | |
+Furue Hud | | | | | |
+Garm3n FM-II | | | | | |
+Garm3n FM-III | | | | | |
+Garm3n GRM | | | | | |
+Garm3n NiM | | | | | |
+Garm3n OLP | | | | | |
+Garm3n TF2 | | | | | |
+Garm3n VIP-Bergman | | | | | |
+Garm3n VIP-Crouton | | | | | |
+Garm3n VIP-Garm3n | | | | | |
+Garm3n VIP-Garm3n-SL | | | | | |
+Garm3n VIP-Thy | | | | | |
+Garm3n Yellow | | | | | |
+Girl Hud | | | | | |
+Harvard Hud | harvard | [Album](https://imgur.com/a/RiSFA)  | [GitHub](https://github.com/harvardbb/harvardhud) | | | [Download](https://github.com/harvardbb/harvardhud/archive/master.zip) 
+Imagine Hud | | | | | |
 JayHud | Kermit | [Album](https://imgur.com/a/pUGu7) | [GitHub](https://github.com/kermit-tf/JayHUD) | | | [Download](https://github.com/kermit-tf/JayHUD/archive/master.zip) 
+KN + Garm3n Hud | | | | | |
+Kornel Hud | | | | | |
+Life's Good | | | | | |
 mhud | Marblr | [Album](https://imgur.com/a/KVHaw) | [GitHub](https://github.com/Marblr/mHUD) | | [TFTV](https://www.teamfortress.tv/34138/mhud) | [Download](https://github.com/Marblr/mHUD/archive/master.zip)
+M1nd Hud | | | | | |
 Magnum Hud | JarateKing | [Album](https://imgur.com/a/BF7gx) | | | | [Download](https://www.dropbox.com/s/66754seda1sc68q/MagnumHUD.rar?dl=0)
+Mangachus Hud | | | | | |
+Melvin Hud | | | | | |
+Mesa Hud | | | | | |
+MesshiaJ's Hud | | | | | |
+MF_Hud | Ulty | [Album](https://imgur.com/a/p6mHT) | [GitHub](https://github.com/ofnlut/MF_hud) | [Steam](https://steamcommunity.com/groups/MF_hud) | [TFTV](https://www.teamfortress.tv/18586/mf-hud-title-pending) | [Download](https://www.dropbox.com/s/66754seda1sc68q/MagnumHUD.rar?dl=0)
+Max Hud | | | | | |
+Mini Hud | | | | | |
+Minimal Flux Hud | kissakala | [Album](https://imgur.com/a/SU6Zi) | [SourceForge](https://sourceforge.net/projects/miniflux/) |  | [TFTV](https://www.teamfortress.tv/10935/?page=5) | [Download](https://sourceforge.net/projects/miniflux/files/latest/download)
+Morg Hud | Morgus  | [Album](https://imgur.com/a/f9XiU) | [GitHub](https://github.com/ItsMorgus/MorgHUD) | | [TFTV](https://www.teamfortress.tv/12080) | [Download](https://github.com/ItsMorgus/MorgHUD/archive/master.zip)
+Nescau Hud |  | [Album](https://i.ytimg.com/vi/SCUYnbubQ0A/maxresdefault.jpg) | | | | [Download](https://www.dropbox.com/s/i83vqx7ku15ka7e/NescauHUD.rar?dl=0)
+Noto Hud | omnibombulator  | [Album](https://imgur.com/a/mrQDL) | [GitHub](https://github.com/omnibombulator/noto) | [Steam](https://steamcommunity.com/groups/notohud) | [TFTV](https://www.teamfortress.tv/16965/notohud) | [Download](https://github.com/omnibombulator/noto/archive/master.zip)
+Noto-Beavernhud | | | | | |
+OhU_hud | ofnlut | [Screen](https://camo.githubusercontent.com/08364ed71b89558f54240cfee9cf3e46d8928c4b/68747470733a2f2f692e696d6775722e636f6d2f6a63556f3550412e6a7067) | [GitHub](https://github.com/ofnlut/OhU_hud) | | | [Download](https://github.com/ofnlut/OhU_hud/archive/master.zip)
+Orbiculatus Hud | | | | | |
 Original Mannterface | Saxton Hale | [Album](https://imgur.com/a/xHE0o) | [GitHub](https://github.com/mannterface/Mannterface) | | | [Download](https://github.com/mannterface/Mannterface/archive/master.zip)
 Overwatch Hud | Nimtra | [Album](https://imgur.com/a/U1gfV) | [GitHub](https://github.com/nimtra/overwatchhud) | [Steam](https://steamcommunity.com/groups/overwatchhud) | [TFTV](https://www.teamfortress.tv/34763/overwatch-hud) | [Download](https://github.com/nimtra/overwatchhud/archive/master.zip)
+Petes Hud | | | | | |
+Pts Skappa | | | | | |
+Quartz KuG Hud | | | | | |
+Quartz Nizza Hud | | | | | |
+RaysVile Hud | | | | | |
+rpvhud | Harvard | [Album](https://imgur.com/a/CuMeh) | [GitHub](https://github.com/harvardbb/rpvhud/tree/master/rpvhud) | | [TFTV](https://www.teamfortress.tv/20651/rpvhud-beta) | [Download](https://github.com/harvardbb/rpvhud/archive/master.zip)
+sfnhud | | | | | |
 Smes Hud | Smesi | [Album](https://imgur.com/a/jpJmf) | [GitHub](https://github.com/smesi/smeshud) | | | [Download](https://github.com/Smesi/smeshud/archive/master.zip)
+Solano Hud | Solano | [Album](https://imgur.com/a/NWt0m) | [SourceForge](https://sourceforge.net/projects/solanohud/) | [Steam](https://steamcommunity.com/groups/solano_hud) | | [Download](https://sourceforge.net/projects/solanohud/files/latest/download)
+Soup8 Hud | | | | | |
+Square Hud | | | | | |
+Such Hud | | | | | |
+Sylv Hud | Sylver | [Album](https://imgur.com/a/7UnpD) | [GitHub](https://github.com/Sylvertf/Sylvhud) | | [TFTV](https://www.teamfortress.tv/16237/sylvhud) | [Download](https://github.com/Sylvertf/Sylvhud/archive/master.zip)
+Takyahud | takram | [Album](https://imgur.com/a/we1U2) | [GitHub](https://github.com/takram/takyahud) | | [TFTV](https://www.teamfortress.tv/21178/takyahud) | [Download](https://github.com/takram/takyahud/archive/master.zip)
+Taz Hud | Taz | [Album](https://imgur.com/a/i6gfk) | | | [TFTV](https://www.teamfortress.tv/14673) | [Download](https://www.dropbox.com/s/3633to446zdby07/TazHud.rar?dl=0)
+Tommy Hud | tommy | [Album](https://imgur.com/a/vVm4M) | | | [TFTV](https://www.teamfortress.tv/14106) | [Download](https://www.dropbox.com/s/zb2jhz08tgqo2rl/TommyHUD.rar?dl=0)
+waeHUD | waezone | [Album](https://imgur.com/a/gZAx0) | [GitHub](https://github.com/mrviper9307/ViperHUD) | | [TFTV](https://www.teamfortress.tv/19471/waehud) | [Download](https://github.com/waezone/waeHUD/archive/master.zip)
+Yahud Black Box | | | | | |
+Yahud Blank | | | | | |
+Yahud C | | | | | |
+Yahud CB | | | | | |
+Yahud Center | | | | | |
+Yahud Fragvid | | | | | |
+Yahud Galaxy | | | | | |
+Yahud White | | | | | |
