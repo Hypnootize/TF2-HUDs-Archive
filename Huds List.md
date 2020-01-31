@@ -166,15 +166,15 @@ Zoub Hud | Zoub | [Album](https://imgur.com/a/ie9GL) | [GitHub](https://github.c
 
 # OUT OF DATE HUDS
 
-HUD | Screenshots | Repository | Direct Download
---- | ----------- | ---------- | ---------------
-Carrot Hud | [Album](https://camo.githubusercontent.com/6d634e292eeee313d405d9ba6632187f2cc6a1d2/687474703a2f2f692e696d6775722e636f6d2f676468594633782e706e67) | [GitHub](https://github.com/JarateKing/_CarrotHUD) | [Download](https://github.com/JarateKing/_CarrotHUD/archive/master.zip)
-d1zr1ght |  |  | 
-Doggy Hud |  |  | 
-Doodle Hud |  |  |
-JayHud | [Album](https://imgur.com/a/pUGu7) | [GitHub](https://github.com/kermit-tf/JayHUD) | [Download](https://github.com/kermit-tf/JayHUD/archive/master.zip) 
-mhud | [Album](https://imgur.com/a/KVHaw) | [GitHub](https://github.com/Marblr/mHUD) | | [TFTV](https://www.teamfortress.tv/34138/mhud) | [Download](https://github.com/Marblr/mHUD/archive/master.zip)
-Magnum Hud | [Album](https://imgur.com/a/BF7gx) |  | [Download](https://www.dropbox.com/s/66754seda1sc68q/MagnumHUD.rar?dl=0)
-Original Mannterface | [Album](https://imgur.com/a/xHE0o) | [GitHub](https://github.com/mannterface/Mannterface) | [Download](https://github.com/mannterface/Mannterface/archive/master.zip)
-Overwatch Hud | [Album](https://imgur.com/a/U1gfV) | [GitHub](https://github.com/nimtra/overwatchhud) | [Steam](https://steamcommunity.com/groups/overwatchhud) | [TFTV](https://www.teamfortress.tv/34763/overwatch-hud) | [Download](https://github.com/nimtra/overwatchhud/archive/master.zip)
-Smes Hud | [Album](https://imgur.com/a/jpJmf) | [GitHub](https://github.com/smesi/smeshud) | [Download](https://github.com/Smesi/smeshud/archive/master.zip)
+HUD | Creator & Maintainer | Screenshots | Repository | Steam Group | Discussion Thread | Direct Download
+--- | -------------------- | ----------- | ---------- | ----------- | ----------------- | ---------------
+Carrot Hud | JarateKing | [Album](https://camo.githubusercontent.com/6d634e292eeee313d405d9ba6632187f2cc6a1d2/687474703a2f2f692e696d6775722e636f6d2f676468594633782e706e67) | [GitHub](https://github.com/JarateKing/_CarrotHUD) | | | [Download](https://github.com/JarateKing/_CarrotHUD/archive/master.zip)
+d1zr1ght | d1zright | | | | |  
+Doggy Hud | TV Hot Doggy | | | | | 
+Doodle Hud | | | | | 
+JayHud | Kermit | [Album](https://imgur.com/a/pUGu7) | [GitHub](https://github.com/kermit-tf/JayHUD) | | | [Download](https://github.com/kermit-tf/JayHUD/archive/master.zip) 
+mhud | Marblr | [Album](https://imgur.com/a/KVHaw) | [GitHub](https://github.com/Marblr/mHUD) | | [TFTV](https://www.teamfortress.tv/34138/mhud) | [Download](https://github.com/Marblr/mHUD/archive/master.zip)
+Magnum Hud | JarateKing | [Album](https://imgur.com/a/BF7gx) | | | | [Download](https://www.dropbox.com/s/66754seda1sc68q/MagnumHUD.rar?dl=0)
+Original Mannterface | Saxton Hale | [Album](https://imgur.com/a/xHE0o) | [GitHub](https://github.com/mannterface/Mannterface) | | | [Download](https://github.com/mannterface/Mannterface/archive/master.zip)
+Overwatch Hud | Nimtra | [Album](https://imgur.com/a/U1gfV) | [GitHub](https://github.com/nimtra/overwatchhud) | [Steam](https://steamcommunity.com/groups/overwatchhud) | [TFTV](https://www.teamfortress.tv/34763/overwatch-hud) | [Download](https://github.com/nimtra/overwatchhud/archive/master.zip)
+Smes Hud | Smesi | [Album](https://imgur.com/a/jpJmf) | [GitHub](https://github.com/smesi/smeshud) | | | [Download](https://github.com/Smesi/smeshud/archive/master.zip)
