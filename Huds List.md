@@ -189,7 +189,7 @@ DipHUD | diplodicus | [Album](https://imgur.com/a/zoNTW) | | [Steam](https://ste
 Dod Hud | | [Screen](https://i.imgur.com/jGNLLdc.jpg) | | | | [Download](https://www.dropbox.com/s/wqv9hz3xros5icg/Dod%20Hud.rar?dl=0)
 Doggy Hud | TV Hot Doggy | [Album](https://imgur.com/a/l02f1jp) | | | | [Download](https://www.dropbox.com/s/4h19il7936pemyu/Doggy%20Hud.rar?dl=0)
 Doodle Hud | Doodles | [Album](https://imgur.com/a/TiqWv) | [GitHub](https://github.com/DougieDoodles/doodlehud) | | | [Download](https://github.com/DougieDoodles/doodlehud/archive/master.zip) 
-DrooHUD | Rawrsor | [Album](https://github.com/Rawrsor/DrooHUD/tree/master/Screenshots) | [GitHub](https://github.com/DougieDoodles/doodlehud) | [GitHub](https://github.com/Rawrsor/DrooHUD) | | | [Download](https://github.com/Rawrsor/DrooHUD/archive/master.zip) 
+DrooHUD | Rawrsor | [Album](https://github.com/Rawrsor/DrooHUD/tree/master/Screenshots) | [GitHub](https://github.com/Rawrsor/DrooHUD) | | | [Download](https://github.com/Rawrsor/DrooHUD/archive/master.zip) 
 Dyde Hud | | [Screen](https://i.imgur.com/MmTt6iT.jpg) | | | | [Download](https://www.dropbox.com/s/79sit3g67cgceji/Dyde%20hud.rar?dl=0)
 DZQ Hud | |  [Screen](https://i.imgur.com/rV4j6jG.jpg)| | | | [Download](https://www.dropbox.com/s/2gd527xk0ppcj7a/DZQ%20Hud.rar?dl=0)
 Flame Hud 2011 | | [Screen](https://i.imgur.com/zcDLp6i.jpg) | | | | [Download](https://www.dropbox.com/s/68bcb293f8exbnq/Flame%20Hud%20%282011%29.rar?dl=0)
