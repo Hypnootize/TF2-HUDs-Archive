@@ -171,7 +171,7 @@ Zoub Hud | Zoub | [Album](https://imgur.com/a/ie9GL) | [GitHub](https://github.c
 # OUT OF DATE HUDS
 
 Archieve of huds that are no longer maintained and therefore are missing the compatibility with the last TF2 updates, some of these are very old and some not so much! I'm mainly parking these here for storage and research purposes.
-Adding a info.vdf file to these huds will make them work if you want to check them out! see the first step of this [guide](https://github.com/Hypnootize/Huds-Update-Guide/blob/master/Update%20Guide.pdf) to see how!
+Adding a info.vdf file to these huds will make them work if you want to check them out! follow this little [guide](https://github.com/Hypnootize/Huds-Update-Guide/blob/master/Updates/Adding%20the%20info.vdf.md) to learn how!
 That said the outdated huds hosted on my dropbox (pretty much every dropbox link down there) should already have a info.vdf setup and should at least work, still very outdated but they work :D
 
 HUD | Creator & Maintainer | Screenshots | Repository | Steam Group | Discussion Thread | Direct Download
