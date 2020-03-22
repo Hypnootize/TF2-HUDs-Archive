@@ -3,7 +3,10 @@
 This repository contains a huge list of various huds that can be found all over the internet, from a variety of sources. 
 All the huds include a Download and a Screenshots album, in most of the cases you can also find the name of the creator next to it in case you want to checkout more of their work!
 
-The Hud list can be found <a href="./Huds List.md">HERE</a>.
+Heres a link for the Active and Inactive hud lists:
+
+[UPDATED HUDS]()
+[OUTDATED HUDS]()
 
 # Contributing
 
@@ -17,7 +20,7 @@ Note that huds made through ToonHud or any online hud editor are not acepted.
 
 # Useful TF2 Resources
 
-First of all, if you are interested in learning on how to create huds or you have questions about them checkout the [Hud Developement Discord](https://discordapp.com/invite/2tDYJSx) and the [TeamFortress.tv Hud Questions Thread](https://www.teamfortress.tv/19073/hud-editing-short-questions-quick-answers)
+If you are interested in learning on how to create huds or you have questions about them checkout the [HUDS.TF DISCORD](https://discordapp.com/invite/pc9ekye)
 
 ## HUD Installation Guides by omnibombulator:
 
