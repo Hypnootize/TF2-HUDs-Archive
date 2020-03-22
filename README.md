@@ -1,12 +1,13 @@
 # TF2 HUDS Megalist
- 
-This repository contains a huge list of various huds that can be found all over the internet, from a variety of sources. 
-All the huds include a Download and a Screenshots album, in most of the cases you can also find the name of the creator next to it in case you want to checkout more of their work!
 
 Heres a link for the Active and Inactive hud lists:
 
-[UPDATED HUDS]()
-[OUTDATED HUDS]()
+[UPDATED HUDS](https://github.com/Hypnootize/TF2-Huds-Megalist/blob/master/Active%20Huds%20List.md)
+
+[OUTDATED HUDS](https://github.com/Hypnootize/TF2-Huds-Megalist/blob/master/Inactive%20Huds%20List.md) 
+
+This repository contains a huge list of various huds that can be found all over the internet, from a variety of sources. 
+All the huds include a Download and a Screenshots album, in most of the cases you can also find the name of the creator next to it in case you want to checkout more of their work!
 
 # Contributing
 
