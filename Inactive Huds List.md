@@ -65,6 +65,8 @@ KN + Garm3n Hud	|	Garm3n	|	[Screen](https://i.imgur.com/IIzAFmh.jpg)	|		|		|		|	
 Kornel Hud	|		|	[Screen](https://i.imgur.com/6LumVWp.jpg)	|		|		|		|	[Download](https://www.dropbox.com/s/ib8tdnf7shdbugu/Kornel%20Hud.rar?dl=0)
 Kza Hud	|		|	[Screen](https://i.imgur.com/Kzbqzgh.jpg)	|		|		|		|	[Download](https://www.dropbox.com/s/qvqalwb2rfgyrdx/Kza%20Hud.rar?dl=0)
 Life's Good	|		|	[Screen](https://i.imgur.com/X7GgVlM.jpg)	|		|		|		|	[Download](https://www.dropbox.com/s/gbkm7hthr8pd2ar/Life%27s%20Good.rar?dl=0)
+m0rehud 1.7	|	m0re	|	[Screen](https://i.imgur.com/SLe9j5G.jpg) [Video](https://www.youtube.com/watch?v=6EHs8FPZ2Yo)	|		|		|	[ETF2l](etf2l.org/forum/huds/topic-15718)	|	[Download](https://www.dropbox.com/s/ogh762ddx9744wv/m0rehud%201.7.rar?dl=0)
+m0rehud 2.0	|	m0re	|	[Screen](https://i.imgur.com/SLe9j5G.jpg) [Video](https://www.youtube.com/watch?v=6EHs8FPZ2Yo)	|		|		|	[ETF2l](etf2l.org/forum/huds/topic-15718)	|	[Download](https://www.dropbox.com/s/ofrfc73o1qfg0wq/m0rehud%202.0.rar?dl=0)
 M1nd Hud	|		|	[Screen](https://i.imgur.com/lz6fMaV.jpg)	|		|		|		|	[Download](https://www.dropbox.com/s/lc7mpl00e86k4we/M1nd%20Hud.rar?dl=0)
 Magnum Hud	|	JarateKing	|	[Album](https://imgur.com/a/BF7gx)	|		|		|		|	[Download](https://www.dropbox.com/s/66754seda1sc68q/MagnumHUD.rar?dl=0)
 Mangachus Hud	|	Mangachu	|	[Screen](https://i.imgur.com/g1DX9Wd.jpg)	|		|		|		|	[Download](https://www.dropbox.com/s/znamovboqpsthmi/Mangachus%20Hud.rar?dl=0)
