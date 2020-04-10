@@ -124,7 +124,7 @@ OTL Hud	|	otl	|	[Album](https://imgur.com/a/MC2zy)	|	[GitHub](https://github.com
 Oxide Hud	|	Oxide	|	[Album](https://imgur.com/a/R9a13)	|	[GitHub](https://github.com/Hypnootize/Oxide-Hud)	|		|		|	[Download](https://github.com/Hypnootize/Oxide-Hud/archive/master.zip)
 Oxide Lansky	|	Lansky	|	[Album](https://imgur.com/a/ZUl8l)	|	[GitHub](https://github.com/Hypnootize/Lanskys-Oxide)	|		|		|	[Download](https://github.com/Hypnootize/Lanskys-Oxide/archive/master.zip)
 PeachHUD	|	Peaches	|	[Album](https://imgur.com/a/j6d9TjP)	|	[GitHub](https://github.com/PapaPeach/PeachHUD)	|		|	[TFTV](https://www.teamfortress.tv/55139/peachhud) [Discord](https://discordapp.com/invite/HyZRVtp)	|	[Download](https://github.com/PapaPeach/PeachHUD/archive/Release.zip)
-Placebo Hud	|	Kermit	|	[Album](https://i.imgur.com/zktLEuq.jpg)	|		|		|		|	[Download](https://www.dropbox.com/s/qris6d4c5baakve/PlaceboHUD.7z?dl=0)
+Placebo Hud	|	Kermit	|	[Album](https://i.imgur.com/zktLEuq.jpg)	|		|		|		|	[Download](https://www.dropbox.com/s/cfgjt4qkime4dec/PlaceboHUD_2020.7z?dl=0)
 Prism Hud	|	JarateKing	|	[Album](https://imgur.com/a/pOmR6)	|	[GitHub](https://github.com/Hypnootize/Prism-Hud)	|		|	[TFTV](https://www.teamfortress.tv/21756/prism-hud-clean-tf2)	|	[Download](https://github.com/Hypnootize/Prism-Hud/archive/master.zip)
 PV Hud	|	povohat	|	[Album](https://imgur.com/a/C3dXl)	|	[GitHub](https://github.com/Hypnootize/PV-Hud)	|		|		|	[Download](https://github.com/Hypnootize/PV-Hud/archive/master.zip)
 Quartz Hud	|	cr0w	|	[Album](https://imgur.com/a/3TKm7mw)	|		|		|	[TFTV](https://www.teamfortress.tv/51395/quartzhud)	|	[Download](https://www.dropbox.com/s/yza7zf25nh42zez/QuartzHUD.zip?dl=0)
