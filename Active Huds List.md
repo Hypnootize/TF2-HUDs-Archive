@@ -1,7 +1,7 @@
 # HUDS LIST												
-												
+
 Includes all the up to date tf2 huds gathered from different sources.												
-												
+
 HUD	|	Creator & Maintainer	|	Screenshots	|	Repository	|	Steam Group	|	HUD Discussion	|	Direct Download
 ---	|	--------------------	|	-----------	|	----------	|	-----------	|	--------------	|	---------------
 1 Shot	|		|	[Album](https://imgur.com/a/HieQg)	|	[GitHub](https://github.com/Hypnootize/1-Shot-Hud)	|		|		|	[Download](https://github.com/Hypnootize/1-Shot-Hud/archive/master.zip)
@@ -53,7 +53,7 @@ FK Hud	|	Colly	|	[Album](https://imgur.com/a/BM9vJ)	|	[GitHub](https://github.co
 Flame Hud	|	Flame	|	[Album](https://imgur.com/a/NHBdv)	|	[GitHub](https://github.com/Hypnootize/Flame-Hud) [Original_GitHub](https://github.com/mattr0d/flamehud)	|	[Steam](https://steamcommunity.com/groups/flamehud)	|	[TFTV](https://www.teamfortress.tv/28572/flamehud-reborn)	|	[Download](https://github.com/Hypnootize/Flame-Hud/archive/master.zip)
 Flarepunch	|	omnibombulator	|	[Album](https://imgur.com/a/RFFlIS9)	|	[GitHub](https://github.com/omnibombulator/Flarepunch)	|		|	[TFTV](https://www.teamfortress.tv/48113/hud-flarepunch)	|	[Download](https://github.com/omnibombulator/Flarepunch/archive/master.zip)
 Flat Hud	|	Flatline	|	[Album](https://imgur.com/a/k8Dff)	|	[GitHub](https://github.com/Hypnootize/Flat-Hud) [Original_GitHub](https://github.com/flatlinee/flathud)	|	[Steam](https://steamcommunity.com/groups/flathud)	|	[TFTV](https://www.teamfortress.tv/14664/flathud)	|	[Download](https://github.com/Hypnootize/Flat-Hud/archive/master.zip)
-Flux Hud	|	fluxxy	|	[Album](https://imgur.com/a/2lbZr)	|	[GitHub](https://github.com/fluxxy/fluxhud)	|		|	[TFTV](https://www.teamfortress.tv/10935)	|	[Download](https://github.com/fluxxy/fluxhud/archive/master.zip)
+Flux Hud	|	fluxxy	|	[Album](https://imgur.com/a/GfKG5lf)	|	[GitHub](https://github.com/fluxxy/fluxhud)	|		|	[TFTV](https://www.teamfortress.tv/10935)	|	[Download](https://github.com/fluxxy/fluxhud/archive/master.zip)
 FlawHUD	|	CriticalFlaw	|	[Album](https://imgur.com/a/0whDjXr)	|	[GitHub](https://github.com/CriticalFlaw/FlawHUD)	|	[Steam](https://steamcommunity.com/groups/FlawHUD)	|	[GameBanana](https://gamebanana.com/guis/32187)	|	[Download](https://github.com/CriticalFlaw/FlawHUD/archive/master.zip)
 Franken Hud	|	The Kins	|	[Screen](https://files.gamebanana.com/img/ss/guis/24353b.jpg)	|	[GitHub](https://github.com/thekins/frankenhud/)	|	[Steam](https://steamcommunity.com/groups/frankenhud)	|	[GameBanana](https://gamebanana.com/guis/24353)	|	[Download](https://github.com/TheKins/frankenhud/archive/master.zip)
 g0R3HUD	|	g0Re	|	[Album](https://imgur.com/a/fPKSs9E)	|	[GitHub](https://github.com/Hypnootize/g0R3HUD)	|		|	[ETF2L](etf2l.org/forum/huds/topic-31930)	|	[Download](https://github.com/Hypnootize/g0R3HUD/archive/master.zip)
@@ -125,7 +125,7 @@ OTL Hud	|	otl	|	[Album](https://imgur.com/a/MC2zy)	|	[GitHub](https://github.com
 Oxide Hud	|	Oxide	|	[Album](https://imgur.com/a/R9a13)	|	[GitHub](https://github.com/Hypnootize/Oxide-Hud)	|		|		|	[Download](https://github.com/Hypnootize/Oxide-Hud/archive/master.zip)
 Oxide Lansky	|	Lansky	|	[Album](https://imgur.com/a/ZUl8l)	|	[GitHub](https://github.com/Hypnootize/Lanskys-Oxide)	|		|		|	[Download](https://github.com/Hypnootize/Lanskys-Oxide/archive/master.zip)
 PeachHUD	|	Peaches	|	[Album](https://imgur.com/a/j6d9TjP)	|	[GitHub](https://github.com/PapaPeach/PeachHUD)	|		|	[TFTV](https://www.teamfortress.tv/55139/peachhud) [Discord](https://discordapp.com/invite/HyZRVtp)	|	[Download](https://github.com/PapaPeach/PeachHUD/archive/Release.zip)
-Placebo Hud	|	Kermit	|	[Album](https://i.imgur.com/zktLEuq.jpg)	|		|		|		|	[Download](https://www.dropbox.com/s/cfgjt4qkime4dec/PlaceboHUD_2020.7z?dl=0)
+Placebo Hud	|	Kermit	|	[Album](https://i.imgur.com/zktLEuq.jpg)	|		|		|	[TFTV](https://www.teamfortress.tv/55500/placebohud)	|	[Download](https://www.dropbox.com/s/skig8px89f17gvr/PlaceboHUD_4x3update.7z?dl=0)
 Prism Hud	|	JarateKing	|	[Album](https://imgur.com/a/pOmR6)	|	[GitHub](https://github.com/Hypnootize/Prism-Hud)	|		|	[TFTV](https://www.teamfortress.tv/21756/prism-hud-clean-tf2)	|	[Download](https://github.com/Hypnootize/Prism-Hud/archive/master.zip)
 PV Hud	|	povohat	|	[Album](https://imgur.com/a/C3dXl)	|	[GitHub](https://github.com/Hypnootize/PV-Hud)	|		|		|	[Download](https://github.com/Hypnootize/PV-Hud/archive/master.zip)
 Quartz Hud	|	cr0w	|	[Album](https://imgur.com/a/3TKm7mw)	|		|		|	[TFTV](https://www.teamfortress.tv/51395/quartzhud)	|	[Download](https://www.dropbox.com/s/yza7zf25nh42zez/QuartzHUD.zip?dl=0)
