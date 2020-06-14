@@ -6,7 +6,7 @@ HUD	|	Creator & Maintainer	|	Screenshots	|	Repository	|	Steam Group	|	HUD Discus
 ---	|	--------------------	|	-----------	|	----------	|	-----------	|	--------------	|	---------------
 1 Shot	|		|	[Album](https://imgur.com/a/HieQg)	|	[GitHub](https://github.com/Hypnootize/1-Shot-Hud)	|		|		|	[Download](https://github.com/Hypnootize/1-Shot-Hud/archive/master.zip)
 7hud	|	Sevin	|	[Album](https://imgur.com/a/yluqH)	|	[GitHub](https://github.com/Sevin7/7hud)	|	[Steam](https://steamcommunity.com/groups/7HUD)	|	[TFTV](https://www.teamfortress.tv/12745/7hud)	|	[Download](https://github.com/Sevin7/7hud/archive/master.zip)
-Ace Hud	|		|	[Album](https://imgur.com/a/uBg83)	|	[GitHub](https://github.com/Hypnootize/Ace-Hud)	|		|		|	[Download](https://github.com/Hypnootize/Ace-Hud/archive/master.zip)
+Ace Hud	|	Mangachu	|	[Album](https://imgur.com/a/uBg83)	|	[GitHub](https://github.com/Hypnootize/Ace-Hud)	|		|		|	[Download](https://github.com/Hypnootize/Ace-Hud/archive/master.zip)
 ahud	|	n0kk	|	[Album](https://imgur.com/a/569GH)	|	[GitHub](https://github.com/n0kk/ahud)	|	[Steam](https://steamcommunity.com/groups/ahud)	|		|	[Download](https://github.com/n0kk/ahud/archive/master.zip)
 ahud-m0rehud	|		|	[Album](https://imgur.com/a/icrhu)	|	[GitHub](https://github.com/Hypnootize/ahud-m0rehud)	|		|		|	[Download](https://github.com/Hypnootize/ahud-m0rehud/archive/master.zip)
 Ants Hud	|	Antwan	|	[Album](https://imgur.com/a/rHpj0ys)	|	[GitHub](https://github.com/AsianAntwan/AntsHUD)	|	[Steam](https://steamcommunity.com/groups/antwansants)	|	[GameBanana](https://gamebanana.com/guis/32745)	|	[Download](https://github.com/AsianAntwan/AntsHUD/archive/master.zip)
