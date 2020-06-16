@@ -1,11 +1,11 @@
 # OUT OF DATE HUDS												
-												
+
 Archive of huds that are no longer maintained and therefore are missing the compatibility with the last TF2 updates, some of these are very old and some not so much! I'm mainly parking these here for storage and research purposes.												
-												
+
 Adding a info.vdf file to these huds will make them work if you want to check them out! follow this little [guide](https://github.com/Hypnootize/Huds-Update-Guide/blob/master/Updates/Adding%20the%20info.vdf.md) to learn how!												
-												
+
 That said the outdated huds hosted on my dropbox (pretty much every dropbox link down there) should already have a info.vdf setup and should at least work, still very outdated but they work :D												
-												
+
 HUD	|	Creator & Maintainer	|	Screenshots	|	Repository	|	Steam Group	|	HUD Discussion	|	Direct Download
 ---	|	--------------------	|	-----------	|	----------	|	-----------	|	--------------	|	---------------
 8Bit Hud	|		|		|		|		|		|	[Download](https://www.dropbox.com/s/mwwf6965ce9b1q6/8Bit%20Hud.rar?dl=0)
@@ -46,7 +46,6 @@ Garm3n OLP	|	Garm3n	|	[Screen](https://i.imgur.com/h7qeqqo.jpg)	|		|		|		|	[Down
 Garm3n TF2	|	Garm3n	|	[Screen](https://i.imgur.com/IQq7L61.jpg)	|		|		|		|	[Download](https://www.dropbox.com/s/buz42s0hxiwjujy/Garm3n%20TF2.rar?dl=0)
 Garm3n VIP-Bergman	|	Garm3n	|	[Screen](https://i.imgur.com/D7swMyf.jpg)	|		|		|		|	[Download](https://www.dropbox.com/s/5u4k0ewjtdel8jw/Garm3n%20VIP%20Bergman.rar?dl=0)
 Garm3n VIP-Crouton	|	Garm3n	|	[Screen](https://i.imgur.com/0aThndO.jpg)	|		|		|		|	[Download](https://www.dropbox.com/s/98ggjmfkgxae53m/Garm3n%20VIP%20Crouton.rar?dl=0)
-Garm3n VIP-Garm3n	|	Garm3n	|	[Screen](https://i.imgur.com/1foxENs.jpg)	|		|		|		|	[Download](https://www.dropbox.com/s/zvbla8ev0w8k5pb/Garm3n%20VIP%20Garm3n.rar?dl=0)
 Garm3n VIP-Garm3n-SL	|	Garm3n	|	[Screen](https://i.imgur.com/qP2DE2L.jpg)	|		|		|		|	[Download](https://www.dropbox.com/s/yxarsyzdmieet8y/Garm3n%20VIP%20Garm3n%20SL.rar?dl=0)
 Garm3n VIP-KTC	|	Garm3n	|	[Screen](https://i.imgur.com/3Q82gle.jpg)	|		|		|		|	[Download](https://www.dropbox.com/s/u9uwhrvi59n1fz2/Garm3n%20VIP%20KTC.rar?dl=0)
 Garm3n VIP-Thy	|	Garm3n	|	[Screen](https://i.imgur.com/Vy9qPOv.jpg)	|		|		|		|	[Download](https://www.dropbox.com/s/udoq4i6dlajitc5/Garm3n%20VIP%20Thy.rar?dl=0)
@@ -107,7 +106,7 @@ Smes Hud	|	Smesi	|	[Album](https://imgur.com/a/jpJmf)	|	[GitHub](https://github.
 Snacks Hud	|		|	[Screen](https://i.imgur.com/Snc9jox.jpg)	|		|		|		|	[Download](https://www.dropbox.com/s/b3s6lvlqa6ez4do/Snacks%20Hud.rar?dl=0)
 snthhud Hud	|		|	[Screen](https://i.imgur.com/YMNY8Im.jpg)	|		|		|		|	[Download](https://www.dropbox.com/s/5ka16wpjn29imwh/snthhud.rar?dl=0)
 Solano Hud	|	Solano	|	[Album](https://imgur.com/a/NWt0m)	|	[SourceForge](https://sourceforge.net/projects/solanohud/)	|	[Steam](https://steamcommunity.com/groups/solano_hud)	|		|	[Download](https://sourceforge.net/projects/solanohud/files/latest/download)
-Soldier Skill Enhancer	|	 ggglygy 	|	[Screen](https://i.imgur.com/55YMCLQ.jpg)	|		|		|		|	[Download](https://www.dropbox.com/s/q08xi6nyzmywmui/Soldier%20Skill%20Enhancer.rar?dl=0)
+Soldier Skill Enhancer	|	ggglygy	|	[Screen](https://i.imgur.com/55YMCLQ.jpg)	|		|		|		|	[Download](https://www.dropbox.com/s/q08xi6nyzmywmui/Soldier%20Skill%20Enhancer.rar?dl=0)
 Soup8 Hud	|	Soup8	|	[Screen](https://i.imgur.com/6oEJPbp.jpg)	|		|		|		|	[Download](https://www.dropbox.com/s/zuq11rqu4j7t11o/Soup8%20Hud.rar?dl=0)
 Square Hud	|		|	[Screen](https://i.imgur.com/eFQ9n7N.jpg)	|		|		|		|	[Download](https://www.dropbox.com/s/b17yiafrb6hcdpl/Square%20Hud.rar?dl=0)
 srshud	|		|	[Screen](https://i.imgur.com/l1Q8JIy.jpg)	|		|		|		|	[Download](https://www.dropbox.com/s/9s3fdv7fwtsv05p/srshud.rar?dl=0)

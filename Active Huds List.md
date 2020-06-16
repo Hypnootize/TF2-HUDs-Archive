@@ -71,6 +71,7 @@ Garm3n SDX 2013	|	Garm3n	|	[Album](https://imgur.com/a/ZWTQm)	|	[GitHub](https:/
 Garm3n TanLight	|	Garm3n	|	[Album](https://imgur.com/a/JYBQB)	|	[GitHub](https://github.com/Hypnootize/Garm3n-TanLight)	|		|		|	[Download](https://github.com/Hypnootize/Garm3n-TanLight/archive/master.zip)
 Garm3n TCF-XL	|	Garm3n	|	[Album](https://imgur.com/a/Q7SLN)	|	[GitHub](https://github.com/Hypnootize/Garm3n-TCF-XL)	|		|		|	[Download](https://github.com/Hypnootize/Garm3n-TCF-XL/archive/master.zip)
 Garm3n VIP-Beavern	|	Garm3n	|	[Album](https://imgur.com/a/tK9N1)	|	[GitHub](https://github.com/Hypnootize/Garm3n-VIP-Beavern)	|		|		|	[Download](https://github.com/Hypnootize/Garm3n-VIP-Beavern/archive/master.zip)
+Garm3n VIP-Garm3n	|	Garm3n	|	[Album](https://imgur.com/a/epthTnV)	|	[GitHub](https://github.com/Hypnootize/Garm3n-VIP-Garm3n)	|		|		|	[Download](https://github.com/Hypnootize/Garm3n-VIP-Garm3n/archive/master.zip)
 Garm3n VIP-Konr	|	Garm3n	|	[Album](https://imgur.com/a/cIa2N)	|	[GitHub](https://github.com/Hypnootize/Garm3n-VIP-Konr)	|		|		|	[Download](https://github.com/Hypnootize/Garm3n-VIP-Konr/archive/master.zip)
 Garm3n VIP-Quad	|	Garm3n	|	[Album](https://imgur.com/a/gzaxK)	|	[GitHub](https://github.com/Hypnootize/Garm3n-VIP-Quad)	|		|		|	[Download](https://github.com/Hypnootize/Garm3n-VIP-Quad/archive/master.zip)
 Garm3n VIP-Stefan	|	Garm3n	|	[Album](https://imgur.com/a/xgQiy)	|	[GitHub](https://github.com/Hypnootize/Garm3n-VIP-Stefan)	|		|		|	[Download](https://github.com/Hypnootize/Garm3n-VIP-Stefan/archive/master.zip)
