@@ -10,7 +10,6 @@ HUD	|	Creator & Maintainer	|	Screenshots	|	Repository	|	Steam Group	|	HUD Discus
 ---	|	--------------------	|	-----------	|	----------	|	-----------	|	--------------	|	---------------
 404 HUD	|	Kornel	|	[Album](https://imgur.com/a/x4KSi)	|	[Dropbox](https://www.dropbox.com/s/c07mluim4rhm2wk/404%20HUD.rar?dl=0)	|		|		|	[Download](https://www.dropbox.com/s/c07mluim4rhm2wk/404%20HUD.rar?dl=1)
 42 HUD 	|	Cache Nich 	|	[Album](https://imgur.com/a/iZpUI)	|	[GitHub](https://github.com/CacheNich/42-HUD)	|		|	[TFTV](https://www.teamfortress.tv/25613/42-hud)	|	[Download](https://github.com/CacheNich/42-HUD/archive/master.zip)
-43 HUD ALT	|	Cache Nich 	|	[Album](https://imgur.com/a/UNYlh)	|	[GitHub](https://github.com/CacheNich/42-HUD-ALT)	|		|	[TFTV](https://www.teamfortress.tv/25613/42-hud)	|	[Download](https://github.com/CacheNich/42-HUD-ALT/archive/master.zip)
 8Bit Hud	|		|		|	[Dropbox](https://www.dropbox.com/s/mwwf6965ce9b1q6/8Bit%20Hud.rar?dl=0)	|		|		|	[Download](https://www.dropbox.com/s/mwwf6965ce9b1q6/8Bit%20Hud.rar?dl=1)
 512561891	|		|	[Screen](https://i.imgur.com/ZEr6VWx.jpg)	|	[Dropbox](https://www.dropbox.com/s/bvpgqqd1k14jyh2/512561891.rar?dl=0)	|		|		|	[Download](https://www.dropbox.com/s/bvpgqqd1k14jyh2/512561891.rar?dl=1)
 Anthals Hud	|		|	[Screen](https://i.imgur.com/8pdejGb.jpg)	|	[Dropbox](https://www.dropbox.com/s/9870dwjl9ypqe33/Anthals%20Hud.rar?dl=0)	|		|		|	[Download](https://www.dropbox.com/s/9870dwjl9ypqe33/Anthals%20Hud.rar?dl=1)
