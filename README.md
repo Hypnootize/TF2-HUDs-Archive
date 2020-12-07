@@ -45,8 +45,9 @@ If you are interested in learning on how to create huds or you have questions ab
 * [Revan's HUD Resources List With Images](https://github.com/cooolbros/tf2-res-file-list)
 * [Doodle's HUD Resources](http://doodlesstuff.com/?p=tf2hud)
 * [JarateKing's Base Hud Ready For Development](https://github.com/JarateKing/BaseHud)
-* [Hypnotize's HUD Crosshairs](https://github.com/Hypnootize/TF2-Hud-Crosshairs)
 * [Default TF2 HUD Files](https://github.com/Hypnootize/TF2-Default-Hud)
+* [Hypnotize's HUD Crosshairs](https://github.com/Hypnootize/TF2-Hud-Crosshairs)
+* [Hypnotize's HUD Icons](https://github.com/Hypnootize/TF2-HUD-Icons)
 
 #### Guides
 * [Raysfire's Video Tutorials](https://www.youtube.com/playlist?list=PL5eNrB8RrXXuV3P1nv6NnwF-tCL_KnJIs)
