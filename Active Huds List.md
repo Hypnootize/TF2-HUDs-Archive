@@ -1,7 +1,7 @@
 # HUDS LIST																
-
+																
 Includes all the up to date tf2 huds gathered from different sources.																
-
+																
 HUD	|	Creator & Maintainer	|	Screens	|	Repository	|	Huds.tf	|	Steam Group	|	HUD Discussion	|	Discord	|	Direct Download
 ---	|	--------------------	|	-------	|	----------	|	-------	|	-----------	|	--------------	|	-------	|	---------------
 1 Shot	|		|	[Album](https://imgur.com/a/HieQg)	|	[GitHub](https://github.com/Hypnootize/1-Shot-Hud)	|		|		|		|		|	[Download](https://github.com/Hypnootize/1-Shot-Hud/archive/master.zip)
@@ -135,7 +135,7 @@ PeachHUD	|	Peaches	|	[Album](https://imgur.com/a/j6d9TjP)	|	[GitHub](https://git
 Placebo Hud	|	Kermit	|	[Album](https://i.imgur.com/zktLEuq.jpg)	|	[Dropbox](https://www.dropbox.com/s/uefxmjzntbr5cw6/PlaceboHUD.rar?dl=0)	|		|		|	[TFTV](https://www.teamfortress.tv/55500/placebohud)	|		|	[Download](https://www.dropbox.com/s/uefxmjzntbr5cw6/PlaceboHUD.rar?dl=1)
 Prism Hud	|	JarateKing	|	[Album](https://imgur.com/a/pOmR6)	|	[GitHub](https://github.com/Hypnootize/Prism-Hud)	|		|		|	[TFTV](https://www.teamfortress.tv/21756/prism-hud-clean-tf2)	|		|	[Download](https://github.com/Hypnootize/Prism-Hud/archive/master.zip)
 PV Hud	|	povohat	|	[Album](https://imgur.com/a/C3dXl)	|	[GitHub](https://github.com/Hypnootize/PV-Hud)	|	[Huds.tf](https://huds.tf/forum/showthread.php?tid=1438)	|		|		|		|	[Download](https://github.com/Hypnootize/PV-Hud/archive/master.zip)
-Quartz Hud	|	cr0w	|	[Album](https://imgur.com/a/3TKm7mw)	|	[Dropbox](https://www.dropbox.com/s/5qzp5ozakg10qlp/QuartzHUD.rar?dl=0)	|		|		|	[TFTV](https://www.teamfortress.tv/51395/quartzhud)	|		|	[Download](https://www.dropbox.com/s/5qzp5ozakg10qlp/QuartzHUD.rar?dl=1)
+Quartz Hud	|	cr0w	|	[Album](https://imgur.com/a/3d3z2el)	|	[Dropbox](https://www.dropbox.com/s/5qzp5ozakg10qlp/QuartzHUD.rar?dl=0)	|		|		|	[TFTV](https://www.teamfortress.tv/51395/quartzhud)	|		|	[Download](https://www.dropbox.com/s/5qzp5ozakg10qlp/QuartzHUD.rar?dl=1)
 QuoteHUD	|	QuoteStrife	|	[Album](https://imgur.com/a/E58DNqI)	|	[Dropbox](https://www.dropbox.com/s/jxetmdnlraqlkfw/QuoteHUD.zip?dl=0)	|	[Huds.tf](https://huds.tf/forum/showthread.php?tid=1995)	|		|	[GameBanana](https://gamebanana.com/guis/34691)	|		|	[Download](https://www.dropbox.com/s/jxetmdnlraqlkfw/QuoteHUD.zip?dl=1)
 QTC Hud	|	Colly	|	[Album](https://imgur.com/a/lS0SX)	|	[GitHub](https://github.com/Hypnootize/QTC-Hud)	|	[Huds.tf](https://huds.tf/forum/showthread.php?tid=243)	|		|		|		|	[Download](https://github.com/Hypnootize/QTC-Hud/archive/master.zip)
 Rads Hud	|	rad	|	[Album](https://imgur.com/a/JdtsG)	|	[GitHub](https://github.com/Hypnootize/Rads-Hud)	|		|		|		|		|	[Download](https://github.com/Hypnootize/Rads-Hud/archive/master.zip)
