@@ -9,6 +9,8 @@ Heres a link for the Active and Inactive hud lists:
 This repository contains a huge list of various huds that can be found all over the internet, from a variety of sources.
 All the huds include a Download and a Screenshots album, in most of the cases you can also find the name of the creator next to it in case you want to checkout more of their work!
 
+You can now also browse the megalist directly on [HUDS.TF](https://huds.tf/site/d-HUDs-Megalist-Active)
+
 ## **CONTRIBUTING**
 
 You are free to contribute to this repository by adding more huds! to do so:
