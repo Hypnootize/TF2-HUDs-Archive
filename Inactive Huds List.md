@@ -1,11 +1,11 @@
 # OUT OF DATE HUDS												
-
+												
 Archive of huds that are no longer maintained and therefore are missing the compatibility with the last TF2 updates, some of these are very old and some not so much! I'm mainly parking these here for storage and research purposes.												
-
+												
 Adding a info.vdf file to these huds will make them work if you want to check them out! follow this little [guide](https://github.com/Hypnootize/Huds-Update-Guide/blob/master/Updates/Adding%20the%20info.vdf.md) to learn how!												
-
+												
 That said the outdated huds hosted on my dropbox (pretty much every dropbox link down there) should already have a info.vdf setup and should at least work, still very outdated but they work :D												
-
+												
 HUD	|	Creator & Maintainer	|	Screenshots	|	Repository	|	Steam Group	|	HUD Discussion	|	Direct Download
 ---	|	--------------------	|	-----------	|	----------	|	-----------	|	--------------	|	---------------
 404 HUD	|	Kornel	|	[Album](https://imgur.com/a/x4KSi)	|	[Dropbox](https://www.dropbox.com/s/c07mluim4rhm2wk/404%20HUD.rar?dl=0)	|		|		|	[Download](https://www.dropbox.com/s/c07mluim4rhm2wk/404%20HUD.rar?dl=1)
@@ -47,7 +47,6 @@ Garm3n FM-II	|	Garm3n	|	[Screen](https://i.imgur.com/PrTW43J.jpg)	|	[Dropbox](ht
 Garm3n GRM	|	Garm3n	|	[Screen](https://i.imgur.com/oSrJ94N.jpg)	|	[Dropbox](https://www.dropbox.com/s/rrqi4sac36862jo/Garm3n%20GRM.rar?dl=0)	|		|		|	[Download](https://www.dropbox.com/s/rrqi4sac36862jo/Garm3n%20GRM.rar?dl=1)
 Garm3n NiM	|	Garm3n 	|	[Screen](https://i.imgur.com/XgrS5zM.jpg)	|	[Dropbox](https://www.dropbox.com/s/ijslye10wrtcty1/Garm3n%20NiM.rar?dl=0)	|		|		|	[Download](https://www.dropbox.com/s/ijslye10wrtcty1/Garm3n%20NiM.rar?dl=1)
 Garm3n OLP	|	Garm3n	|	[Screen](https://i.imgur.com/h7qeqqo.jpg)	|	[Dropbox](https://www.dropbox.com/s/av510qkbbus5yv4/Garm3n%20OLP.rar?dl=0)	|		|		|	[Download](https://www.dropbox.com/s/av510qkbbus5yv4/Garm3n%20OLP.rar?dl=1)
-Garm3n TF2	|	Garm3n	|	[Screen](https://i.imgur.com/IQq7L61.jpg)	|	[Dropbox](https://www.dropbox.com/s/buz42s0hxiwjujy/Garm3n%20TF2.rar?dl=0)	|		|		|	[Download](https://www.dropbox.com/s/buz42s0hxiwjujy/Garm3n%20TF2.rar?dl=1)
 Garm3n VIP-Bergman	|	Garm3n	|	[Screen](https://i.imgur.com/D7swMyf.jpg)	|	[Dropbox](https://www.dropbox.com/s/5u4k0ewjtdel8jw/Garm3n%20VIP%20Bergman.rar?dl=0)	|		|		|	[Download](https://www.dropbox.com/s/5u4k0ewjtdel8jw/Garm3n%20VIP%20Bergman.rar?dl=1)
 Garm3n VIP-Crouton	|	Garm3n	|	[Screen](https://i.imgur.com/0aThndO.jpg)	|	[Dropbox](https://www.dropbox.com/s/98ggjmfkgxae53m/Garm3n%20VIP%20Crouton.rar?dl=0)	|		|		|	[Download](https://www.dropbox.com/s/98ggjmfkgxae53m/Garm3n%20VIP%20Crouton.rar?dl=1)
 Garm3n VIP-Garm3n-SL	|	Garm3n	|	[Screen](https://i.imgur.com/qP2DE2L.jpg)	|	[Dropbox](https://www.dropbox.com/s/yxarsyzdmieet8y/Garm3n%20VIP%20Garm3n%20SL.rar?dl=0)	|		|		|	[Download](https://www.dropbox.com/s/yxarsyzdmieet8y/Garm3n%20VIP%20Garm3n%20SL.rar?dl=1)
@@ -69,7 +68,6 @@ KN + Garm3n Hud	|	Garm3n	|	[Screen](https://i.imgur.com/IIzAFmh.jpg)	|	[Dropbox]
 Kornel Hud	|		|	[Screen](https://i.imgur.com/6LumVWp.jpg)	|	[Dropbox](https://www.dropbox.com/s/ib8tdnf7shdbugu/Kornel%20Hud.rar?dl=0)	|		|		|	[Download](https://www.dropbox.com/s/ib8tdnf7shdbugu/Kornel%20Hud.rar?dl=1)
 Kza Hud	|		|	[Screen](https://i.imgur.com/Kzbqzgh.jpg)	|	[Dropbox](https://www.dropbox.com/s/qvqalwb2rfgyrdx/Kza%20Hud.rar?dl=0)	|		|		|	[Download](https://www.dropbox.com/s/qvqalwb2rfgyrdx/Kza%20Hud.rar?dl=1)
 Life's Good	|		|	[Screen](https://i.imgur.com/X7GgVlM.jpg)	|	[Dropbox](https://www.dropbox.com/s/gbkm7hthr8pd2ar/Life%27s%20Good.rar?dl=0)	|		|		|	[Download](https://www.dropbox.com/s/gbkm7hthr8pd2ar/Life%27s%20Good.rar?dl=1)
-Lion Hud	|	Bara Godzilla	|	[Album](https://imgur.com/a/ilPM9ne)	|	[GitHub](https://github.com/baraGodzilla/lionHUD)	|	[Steam](https://steamcommunity.com/groups/lionhud)	|	[TFTV](https://www.teamfortress.tv/33746/lionhud)	|	[Download](https://github.com/baraGodzilla/lionHUD/archive/master.zip)
 m0rehud 1.7	|	m0re	|	[Screen](https://i.imgur.com/YM4g5Ly.jpg) [Video](https://www.youtube.com/watch?v=6EHs8FPZ2Yo)	|	[Dropbox](https://www.dropbox.com/s/ogh762ddx9744wv/m0rehud%201.7.rar?dl=0)	|		|	[ETF2l](etf2l.org/forum/huds/topic-15718)	|	[Download](https://www.dropbox.com/s/ogh762ddx9744wv/m0rehud%201.7.rar?dl=1)
 m0rehud 2.0	|	m0re	|	[Screen](https://i.imgur.com/SLe9j5G.jpg) [Video](https://www.youtube.com/watch?v=6EHs8FPZ2Yo)	|	[Dropbox](https://www.dropbox.com/s/ofrfc73o1qfg0wq/m0rehud%202.0.rar?dl=0)	|		|	[ETF2l](etf2l.org/forum/huds/topic-15718)	|	[Download](https://www.dropbox.com/s/ofrfc73o1qfg0wq/m0rehud%202.0.rar?dl=1)
 M1nd Hud	|		|	[Screen](https://i.imgur.com/lz6fMaV.jpg)	|	[Dropbox](https://www.dropbox.com/s/lc7mpl00e86k4we/M1nd%20Hud.rar?dl=0)	|		|		|	[Download](https://www.dropbox.com/s/lc7mpl00e86k4we/M1nd%20Hud.rar?dl=1)
