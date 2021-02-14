@@ -11,13 +11,13 @@ All the huds include a Download and a Screenshots album, in most of the cases yo
 
 ## **CONTRIBUTING**
 
-You are free to contribuite to this repository by adding more huds! to do so:
+You are free to contribute to this repository by adding more huds! to do so:
 
 1. Fork this repository
 2. Edit files and commit the changes
 3. Make a pull request!
 
-*Note that huds made through any online hud editor are not acepted.*
+*Note that huds made through any online hud editor are not accepted.*
 
 ### *Contributors so far:*
 
