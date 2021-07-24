@@ -35,7 +35,7 @@ Jotunn
 
 # **USEFUL TF2 LINKS**
 
-If you are interested in learning on how to create huds or you have questions about them checkout the [HUDS.TF DISCORD](http://discord.huds.tf)
+If you are interested in learning on how to create huds or you have questions about them check out the [HUDS.TF DISCORD](http://discord.huds.tf)
 
 #### HUD Installation Guides
 * [omnibombulator's HUD Installation for Windows](https://github.com/Hypnootize/TF2-Hud-Installation-Guides/blob/master/Hud%20Installation%20For%20Windows.md)
