@@ -1,41 +1,31 @@
 # **TF2 HUDS MEGALIST**
 
-Heres a link for the Active and Inactive hud lists:
+Heres a link for the Active and Inactive HUD lists:
 
 **[UPDATED HUDS](https://github.com/Hypnootize/TF2-Huds-Megalist/blob/master/Active%20Huds%20List.md)**
 
 **[OUTDATED HUDS](https://github.com/Hypnootize/TF2-Huds-Megalist/blob/master/Inactive%20Huds%20List.md)**
 
-This repository contains a huge list of various huds that can be found all over the internet, from a variety of sources.
-All the huds include a Download and a Screenshots album, in most of the cases you can also find the name of the creator next to it in case you want to checkout more of their work!
+This repository contains a huge list of various HUDs that can be found all over the internet, from a variety of sources.
+All the HUDs include a Download and a Screenshots album, in most of the cases you can also find the name of the creator next to it in case you want to checkout more of their work!
 
 You can now also browse the megalist directly on [HUDS.TF](https://huds.tf/site/d-HUDs-Megalist-Active)
 
 ## **CONTRIBUTING**
 
-You are free to contribute to this repository by adding more huds! to do so:
+You are free to contribute to this repository by adding more HUDs! to do so:
 
 1. Fork this repository
 2. Edit files and commit the changes
 3. Make a pull request!
 
-*Note that huds made through any online hud editor are not accepted.*
-
-### *Contributors so far:*
-
-```
-Whisker
-JarateKing
-CriticalFlaw
-Scoutman
-Jotunn
-```
+*Note that HUDs made through any online hud editor are not accepted.*
 
 *A huge thank you to [Whisker](https://github.com/rbjaxter) for setting up the spreadsheet which makes maintaining this list possible!*
 
 # **USEFUL TF2 LINKS**
 
-If you are interested in learning on how to create huds or you have questions about them check out the [HUDS.TF DISCORD](http://discord.huds.tf)
+If you are interested in learning on how to create HUDs or you have questions about them check out the [HUDS.TF DISCORD](http://discord.huds.tf)
 
 #### HUD Installation Guides
 * [omnibombulator's HUD Installation for Windows](https://github.com/Hypnootize/TF2-Hud-Installation-Guides/blob/master/Hud%20Installation%20For%20Windows.md)
@@ -66,12 +56,13 @@ If you are interested in learning on how to create huds or you have questions ab
 * [Clovervidia's Captions Guide](https://github.com/clovervidia/clovervidias-captions)
 
 #### HUD Discussions
-* [TeamFortressTV HUD Showcase Thread](https://www.teamfortress.tv/8247/show-your-hud-modifications)
-* [TeamFortressTV HUD Questions Thread](https://www.teamfortress.tv/19073/hud-editing-short-questions-quick-answers)
+* [TeamFortressTV HUDs Showcase Thread](https://www.teamfortress.tv/8247/show-your-hud-modifications)
+* [TeamFortressTV HUDs Questions Thread](https://www.teamfortress.tv/19073/hud-editing-short-questions-quick-answers)
 
 #### HUD Tools
+* [CriticalFlaw's TF2 HUD Editor](https://github.com/CriticalFlaw/TF2HUD.Editor)
+* [Revan's HUD Merger](https://github.com/cooolbros/hud-merger)
 * [GCFScape](https://developer.valvesoftware.com/wiki/GCFScape)
 * [VTFEdit](https://developer.valvesoftware.com/wiki/VTFEdit)
 * [VTF Plugins for Photoshop and Paint.NET](https://gamebanana.com/tools/6791)
-* [CriticalFlaw's TF2 HUD Editor](https://github.com/CriticalFlaw/TF2HUD.Editor)
-* [Revan's HUD Merger](https://github.com/cooolbros/hud-merger)
+* [Revan's VSCode VDF Extension](https://github.com/cooolbros/vscode-vdf)
