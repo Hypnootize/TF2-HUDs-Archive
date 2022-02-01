@@ -65,4 +65,4 @@ If you are interested in learning on how to create HUDs or you have questions ab
 * [GCFScape](https://developer.valvesoftware.com/wiki/GCFScape)
 * [VTFEdit](https://developer.valvesoftware.com/wiki/VTFEdit)
 * [VTF Plugins for Photoshop and Paint.NET](https://gamebanana.com/tools/6791)
-* [Revan's VSCode VDF Extension](https://github.com/cooolbros/vscode-vdf)
+* [Revan's VSCode VDF Extension](https://marketplace.visualstudio.com/items?itemName=pfwobcke.vscode-vdf)
