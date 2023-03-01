@@ -3,6 +3,7 @@
 
 # HUD WEBSITES
 * [Comfig HUDs](https://comfig.app/huds) *by mastercoms*
+* [TF2 HUDs](https://tf2huds.dev) *by Revan*
 * [GameBanana HUDs](https://gamebanana.com/mods/cats/1649)
 
 # HUD INSTALLATION GUIDES
