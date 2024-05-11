@@ -2,7 +2,7 @@
 
 <h1>OUTDATED HUDS LIST</h1>
 <h3>
-138 HUDs Currently Outdated
+137 HUDs Currently Outdated
 </h3>
 Archive of HUDs that are no longer maintained and therefore missing the compatibility with the last TF2 updates, some of these are very old and some not so much! I'm mainly parking these here for storage and research purposes.
 
@@ -145,7 +145,6 @@ Yahud Blank	|	Whayay	|	<a href="https://i.imgur.com/A9NlH6a.jpg"><img src="/icon
 Yahud C	|	Whayay	|	<a href="https://i.imgur.com/6M8Kptn.jpg"><img src="/icons/screenshots.png"></a>	|	<a href="https://www.dropbox.com/s/sazkop9x3y816mn/Yahud%20C.7z?dl=0"><img src="/icons/dropbox.png"></a>	|		|		|		|		|		|	<a href="https://www.dropbox.com/s/sazkop9x3y816mn/Yahud%20C.7z?dl=1"><img src="/icons/download.png"></a>
 Yahud CB	|	Whayay	|	<a href="https://i.imgur.com/RVZHxAt.jpg"><img src="/icons/screenshots.png"></a>	|	<a href="https://www.dropbox.com/s/c6cz6l2oxkd2rno/Yahud%20CB.7z?dl=0"><img src="/icons/dropbox.png"></a>	|		|		|		|		|		|	<a href="https://www.dropbox.com/s/c6cz6l2oxkd2rno/Yahud%20CB.7z?dl=1"><img src="/icons/download.png"></a>
 Yahud Center	|	Whayay	|	<a href="https://i.imgur.com/EdNCcJ0.jpg"><img src="/icons/screenshots.png"></a>	|	<a href="https://www.dropbox.com/s/97hnmqwbvbhh6dg/Yahud%20Center.7z?dl=0"><img src="/icons/dropbox.png"></a>	|		|		|		|		|		|	<a href="https://www.dropbox.com/s/97hnmqwbvbhh6dg/Yahud%20Center.7z?dl=1"><img src="/icons/download.png"></a>
-Yahud Fragvid	|	Whayay	|	<a href="https://i.imgur.com/RUJ4iM9.jpg"><img src="/icons/screenshots.png"></a>	|	<a href="https://www.dropbox.com/s/9jxneo6g2ue2adn/Yahud-Fragvid.7z?dl=0"><img src="/icons/dropbox.png"></a>	|		|		|		|		|		|	<a href="https://www.dropbox.com/s/9jxneo6g2ue2adn/Yahud-Fragvid.7z?dl=1"><img src="/icons/download.png"></a>
 Yahud Galaxy	|	Whayay	|	<a href="https://i.imgur.com/cie8twI.jpg"><img src="/icons/screenshots.png"></a>	|	<a href="https://www.dropbox.com/s/xnw5ew31q8b8rmb/Yahud%20Galaxy.7z?dl=0"><img src="/icons/dropbox.png"></a>	|		|		|		|		|		|	<a href="https://www.dropbox.com/s/xnw5ew31q8b8rmb/Yahud%20Galaxy.7z?dl=1"><img src="/icons/download.png"></a>
 Yahud White	|	Whayay	|	<a href="https://i.imgur.com/rLsU7Ao.jpg"><img src="/icons/screenshots.png"></a>	|	<a href="https://www.dropbox.com/s/dkbxnkk80oilmq7/Yahud%20White.7z?dl=0"><img src="/icons/dropbox.png"></a>	|		|		|		|		|		|	<a href="https://www.dropbox.com/s/dkbxnkk80oilmq7/Yahud%20White.7z?dl=1"><img src="/icons/download.png"></a>
 ZBHUD	|	Unknown	|	<a href="https://i.imgur.com/1RCsdT1.jpg"><img src="/icons/screenshots.png"></a>	|	<a href="https://www.dropbox.com/s/o48zhywriwta42i/ZBHUD.7z?dl=0"><img src="/icons/dropbox.png"></a>	|		|		|		|		|		|	<a href="https://www.dropbox.com/s/o48zhywriwta42i/ZBHUD.7z?dl=1"><img src="/icons/download.png"></a>
