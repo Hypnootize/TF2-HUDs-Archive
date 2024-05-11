@@ -2,7 +2,7 @@
 
 <h1>OUTDATED HUDS LIST</h1>
 <h3>
-139 HUDs Currently Outdated
+138 HUDs Currently Outdated
 </h3>
 Archive of HUDs that are no longer maintained and therefore missing the compatibility with the last TF2 updates, some of these are very old and some not so much! I'm mainly parking these here for storage and research purposes.
 
@@ -15,7 +15,6 @@ HUD	|	Creator	|	Album	|	Repository	|	Comfig HUDs	|	TF2 HUDs	|	Game Banana	|	Stea
 404 HUD	|	Kornel	|	<a href="https://imgur.com/a/x4KSi"><img src="/icons/screenshots.png"></a>	|	<a href="https://www.dropbox.com/s/awkrx4cfwnp1l74/404%20HUD.7z?dl=0"><img src="/icons/dropbox.png"></a>	|		|		|	<a href="https://gamebanana.com/mods/26746"><img src="/icons/gamebanana.png"></a>	|		|		|	<a href="https://www.dropbox.com/s/awkrx4cfwnp1l74/404%20HUD.7z?dl=1"><img src="/icons/download.png"></a>
 42 HUD	|	Cache Nich	|	<a href="https://imgur.com/a/iZpUI"><img src="/icons/screenshots.png"></a>	|	<a href="https://github.com/CacheNich/42-HUD"><img src="/icons/github.png"></a>	|		|		|		|		|	<a href="https://www.teamfortress.tv/25613/42-hud"><img src="/icons/tftv.png"></a>	|	<a href="https://github.com/CacheNich/42-HUD/archive/master.zip"><img src="/icons/download.png"></a>
 8Bit Hud	|	Unknown	|	<a href="https://i.imgur.com/nh5yJuT.png"><img src="/icons/screenshots.png"></a>	|	<a href="https://www.dropbox.com/s/d6poo8zxakoyjqi/8Bit%20Hud.7z?dl=0"><img src="/icons/dropbox.png"></a>	|		|		|		|		|		|	<a href="https://www.dropbox.com/s/d6poo8zxakoyjqi/8Bit%20Hud.7z?dl=1"><img src="/icons/download.png"></a>
-512561891	|	Unknown	|	<a href="https://i.imgur.com/ZEr6VWx.jpg"><img src="/icons/screenshots.png"></a>	|	<a href="https://www.dropbox.com/s/u0d5wjyyxxzyh9n/512561891.7z?dl=0"><img src="/icons/dropbox.png"></a>	|		|		|		|		|		|	<a href="https://www.dropbox.com/s/u0d5wjyyxxzyh9n/512561891.7z?dl=1"><img src="/icons/download.png"></a>
 Anthals Hud	|	Unknown	|	<a href="https://i.imgur.com/8pdejGb.jpg"><img src="/icons/screenshots.png"></a>	|	<a href="https://www.dropbox.com/s/g5ym1sl8lop3irj/Anthals%20Hud.7z?dl=0"><img src="/icons/dropbox.png"></a>	|		|		|		|		|		|	<a href="https://www.dropbox.com/s/g5ym1sl8lop3irj/Anthals%20Hud.7z?dl=1"><img src="/icons/download.png"></a>
 Axis Hud	|	Domoo	|	<a href="https://imgur.com/a/oHjkt"><img src="/icons/screenshots.png"></a>	|	<a href="https://github.com/Dommoo/AxisHud"><img src="/icons/github.png"></a>	|		|		|		|		|	<a href="https://www.teamfortress.tv/20077/new-axishud"><img src="/icons/tftv.png"></a>	|	<a href="https://github.com/Dommoo/AxisHud/archive/master.zip"><img src="/icons/download.png"></a>
 Barrie Hud	|	Unknown	|	<a href="https://i.imgur.com/pOFXK2o.jpg"><img src="/icons/screenshots.png"></a>	|	<a href="https://www.dropbox.com/s/6ptyyb0t6mry0z6/Barrie%20Hud.7z?dl=0"><img src="/icons/dropbox.png"></a>	|		|		|		|		|		|	<a href="https://www.dropbox.com/s/6ptyyb0t6mry0z6/Barrie%20Hud.7z?dl=1"><img src="/icons/download.png"></a>

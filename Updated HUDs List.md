@@ -2,7 +2,7 @@
 
 <h1>UPDATED HUD LIST</h1>
 <h3>
-311 HUDs Currently Updated
+312 HUDs Currently Updated
 </h3>
 This list includes most up to date TF2 HUDs gathered from different sources.
 
@@ -12,6 +12,7 @@ HUD	|	Creator	|	Album	|	Repository	|	Comfig HUDs	|	TF2 HUDs	|	Game Banana	|	Stea
 :---:	|	:------:	|	:-----:	|	:--------:	|	:---------:	|	:------:	|	:---------:	|	:----:	|	:-------------:	|	:-------:
 1 Shot	|	Unknown	|	<a href="https://imgur.com/a/HieQg"><img src="/icons/screenshots.png"></a>	|	<a href="https://github.com/Hypnootize/1-Shot-Hud"><img src="/icons/github.png"></a>	|	<a href="https://comfig.app/huds/page/1-shot"><img src="/icons/comfighuds.png"></a>	|		|		|		|		|	<a href="https://github.com/Hypnootize/1-Shot-Hud/archive/master.zip"><img src="/icons/download.png"></a>
 3HUD	|	HSA34	|	<a href="https://imgur.com/a/uA7smF9"><img src="/icons/screenshots.png"></a>	|	<a href="https://www.dropbox.com/s/cwwmppnn3nn68av/3HUD.7z?dl=0"><img src="/icons/dropbox.png"></a>	|	<a href="https://comfig.app/huds/page/3hud"><img src="/icons/comfighuds.png"></a>	|		|	<a href="https://gamebanana.com/mods/297192"><img src="/icons/gamebanana.png"></a>	|		|		|	<a href="https://www.dropbox.com/s/cwwmppnn3nn68av/3HUD.7z?dl=1"><img src="/icons/download.png"></a>
+512561891	|	Unknown	|	<a href="https://imgur.com/a/hSAzYJ7"><img src="/icons/screenshots.png"></a>	|	<a href="https://github.com/TechnoSL/512561891"><img src="/icons/github.png"></a>	|		|		|		|		|		|	<a href="https://github.com/TechnoSL/512561891/archive/refs/heads/main.zip"><img src="/icons/download.png"></a>
 7hud	|	Sevin	|	<a href="https://imgur.com/a/yluqH"><img src="/icons/screenshots.png"></a>	|	<a href="https://github.com/Sevin7/7hud"><img src="/icons/github.png"></a>	|	<a href="https://comfig.app/huds/page/7hud"><img src="/icons/comfighuds.png"></a>	|	<a href="https://tf2huds.dev/hud/7HUD"><img src="/icons/tf2huds.png"></a>	|	<a href="https://gamebanana.com/mods/26849"><img src="/icons/gamebanana.png"></a>	|	<a href="https://steamcommunity.com/groups/7HUD"><img src="/icons/steam.png"></a>	|	<a href="https://www.teamfortress.tv/12745/7hud"><img src="/icons/tftv.png"></a>	|	<a href="https://github.com/Sevin7/7hud/archive/master.zip"><img src="/icons/download.png"></a>
 12F'S HUD	|	twelvef	|	<a href="https://imgur.com/a/hSXm5rp"><img src="/icons/screenshots.png"></a>	|	<a href="https://www.dropbox.com/s/7xs68f6biwp5hd2/12F%27S%20HUD.7z?dl=0"><img src="/icons/dropbox.png"></a>	|	<a href="https://comfig.app/huds/page/12fs-hud"><img src="/icons/comfighuds.png"></a>	|		|		|		|		|	<a href="https://www.dropbox.com/s/7xs68f6biwp5hd2/12F%27S%20HUD.7z?dl=1"><img src="/icons/download.png"></a>
 Ace Hud	|	Mangachu	|	<a href="https://imgur.com/a/uBg83"><img src="/icons/screenshots.png"></a>	|	<a href="https://github.com/Hypnootize/Ace-Hud"><img src="/icons/github.png"></a>	|	<a href="https://comfig.app/huds/page/ace-hud"><img src="/icons/comfighuds.png"></a>	|		|		|		|		|	<a href="https://github.com/Hypnootize/Ace-Hud/archive/master.zip"><img src="/icons/download.png"></a>
