@@ -2,7 +2,7 @@
 
 <h1>OUTDATED HUDS LIST</h1>
 <h3>
-137 HUDs Currently Outdated
+136 HUDs Currently Outdated
 </h3>
 Archive of HUDs that are no longer maintained and therefore missing the compatibility with the last TF2 updates, some of these are very old and some not so much! I'm mainly parking these here for storage and research purposes.
 
@@ -62,7 +62,6 @@ Harms Hud	|	The Harmless	|	<a href="https://imgur.com/a/2b3Pq"><img src="/icons/
 Harvard Hud	|	harvard	|	<a href="https://imgur.com/a/RiSFA"><img src="/icons/screenshots.png"></a>	|	<a href="https://github.com/harvardbb/harvardhud"><img src="/icons/github.png"></a>	|		|		|		|		|		|	<a href="https://github.com/harvardbb/harvardhud/archive/master.zip"><img src="/icons/download.png"></a>
 HerganHUD	|	Hergan	|	<a href="https://imgur.com/a/Ixaz9"><img src="/icons/screenshots.png"></a>	|	<a href="https://github.com/Hergan5/herganhud"><img src="/icons/github.png"></a>	|		|		|	<a href="https://gamebanana.com/mods/26754"><img src="/icons/gamebanana.png"></a>	|	<a href="https://steamcommunity.com/groups/herganhud"><img src="/icons/steam.png"></a>	|	<a href="https://www.teamfortress.tv/21340/herganhud"><img src="/icons/tftv.png"></a>	|	<a href="https://github.com/Hergan5/herganhud/archive/master.zip"><img src="/icons/download.png"></a>
 HookyHUD	|	hooky	|	<a href="https://i.imgur.com/o1Bma4T.jpg"><img src="/icons/screenshots.png"></a>	|	<a href="https://github.com/hookyboysb/hookyHUD"><img src="/icons/github.png"></a>	|		|		|		|		|	<a href="https://www.teamfortress.tv/1584/hookyhud-just-based-on-the-default-this-time"><img src="/icons/tftv.png"></a>	|	<a href="https://github.com/hookyboysb/hookyHUD/archive/master.zip"><img src="/icons/download.png"></a>
-huehued	|	Unknown	|	<a href="https://i.imgur.com/E4PyQGp.jpg"><img src="/icons/screenshots.png"></a>	|	<a href="https://www.dropbox.com/s/euviduldbsfnfvj/huehued.7z?dl=0"><img src="/icons/dropbox.png"></a>	|		|		|		|		|		|	<a href="https://www.dropbox.com/s/euviduldbsfnfvj/huehued.7z?dl=1"><img src="/icons/download.png"></a>
 Imagine Hud	|	Eric	|	<a href="https://imgur.com/a/Ozzvu"><img src="/icons/screenshots.png"></a>	|	<a href="https://www.dropbox.com/s/hcewoo71hcc42ds/ImagineHUD.7z?dl=0"><img src="/icons/dropbox.png"></a>	|		|		|		|		|	<a href="https://www.teamfortress.tv/13215/imaginehud-incomplete"><img src="/icons/tftv.png"></a>	|	<a href="https://www.dropbox.com/s/hcewoo71hcc42ds/ImagineHUD.7z?dl=1"><img src="/icons/download.png"></a>
 Indust Hud	|	Unknown	|	<a href="https://i.imgur.com/zR735Kh.jpg"><img src="/icons/screenshots.png"></a>	|	<a href="https://www.dropbox.com/s/oxeevgfpcawe6io/Indust%20Hud.7z?dl=0"><img src="/icons/dropbox.png"></a>	|		|		|		|		|		|	<a href="https://www.dropbox.com/s/oxeevgfpcawe6io/Indust%20Hud.7z?dl=1"><img src="/icons/download.png"></a>
 JayHud	|	Kermit	|	<a href="https://imgur.com/a/pUGu7"><img src="/icons/screenshots.png"></a>	|	<a href="https://github.com/kermit-tf/JayHUD"><img src="/icons/github.png"></a>	|		|	<a href="https://tf2huds.dev/hud/JayHUD"><img src="/icons/tf2huds.png"></a>	|		|		|	<a href="https://www.teamfortress.tv/18956/jayhud"><img src="/icons/tftv.png"></a>	|	<a href="https://github.com/kermit-tf/JayHUD/archive/master.zip"><img src="/icons/download.png"></a>
