@@ -2,7 +2,7 @@
 
 <h1>OUTDATED HUDS LIST</h1>
 <h3>
-136 HUDs Currently Outdated
+135 HUDs Currently Outdated
 </h3>
 Archive of HUDs that are no longer maintained and therefore missing the compatibility with the last TF2 updates, some of these are very old and some not so much! I'm mainly parking these here for storage and research purposes.
 
@@ -123,7 +123,6 @@ Soldier Skill Enhancer	|	ggglygy	|	<a href="https://i.imgur.com/55YMCLQ.jpg"><im
 Soup8 Hud	|	Soup8	|	<a href="https://i.imgur.com/6oEJPbp.jpg"><img src="/icons/screenshots.png"></a>	|	<a href="https://www.dropbox.com/s/xfppyldecz95zb3/Soup8%20Hud.7z?dl=0"><img src="/icons/dropbox.png"></a>	|		|		|		|		|		|	<a href="https://www.dropbox.com/s/xfppyldecz95zb3/Soup8%20Hud.7z?dl=1"><img src="/icons/download.png"></a>
 SpudHud	|	SuperSaiyanSpud	|	<a href="https://imgur.com/a/xnCqH"><img src="/icons/screenshots.png"></a>	|	<a href="https://github.com/supersaiyanspud/SpudHud"><img src="/icons/github.png"></a>	|		|		|		|	<a href="https://steamcommunity.com/groups/SpudHUD"><img src="/icons/steam.png"></a>	|	<a href="https://www.teamfortress.tv/34809/spudhud"><img src="/icons/tftv.png"></a>	|	<a href="https://github.com/supersaiyanspud/SpudHud/archive/refs/heads/master.zip"><img src="/icons/download.png"></a>
 Square Hud	|	Unknown	|	<a href="https://i.imgur.com/eFQ9n7N.jpg"><img src="/icons/screenshots.png"></a>	|	<a href="https://www.dropbox.com/s/3lcsqrg298pmc2z/Square%20Hud.7z?dl=0"><img src="/icons/dropbox.png"></a>	|		|		|		|		|		|	<a href="https://www.dropbox.com/s/3lcsqrg298pmc2z/Square%20Hud.7z?dl=1"><img src="/icons/download.png"></a>
-srshud	|	Unknown	|	<a href="https://i.imgur.com/l1Q8JIy.jpg"><img src="/icons/screenshots.png"></a>	|	<a href="https://www.dropbox.com/s/9ef058yrjhls0rz/srshud.7z?dl=0"><img src="/icons/dropbox.png"></a>	|		|		|		|		|		|	<a href="https://www.dropbox.com/s/9ef058yrjhls0rz/srshud.7z?dl=1"><img src="/icons/download.png"></a>
 Such Hud	|	Unknown	|	<a href="https://i.imgur.com/YyLKFQB.jpg"><img src="/icons/screenshots.png"></a>	|	<a href="https://www.dropbox.com/s/h822gfujqo46hi6/Such%20Hud.7z?dl=0"><img src="/icons/dropbox.png"></a>	|		|		|		|		|		|	<a href="https://www.dropbox.com/s/h822gfujqo46hi6/Such%20Hud.7z?dl=1"><img src="/icons/download.png"></a>
 Sylv Hud	|	Sylver	|	<a href="https://imgur.com/a/7UnpD"><img src="/icons/screenshots.png"></a>	|	<a href="https://github.com/Sylvertf/Sylvhud"><img src="/icons/github.png"></a>	|		|		|		|		|	<a href="https://www.teamfortress.tv/16237/sylvhud"><img src="/icons/tftv.png"></a>	|	<a href="https://github.com/Sylvertf/Sylvhud/archive/master.zip"><img src="/icons/download.png"></a>
 Takyahud	|	takram	|	<a href="https://imgur.com/a/we1U2"><img src="/icons/screenshots.png"></a>	|	<a href="https://github.com/takram/takyahud"><img src="/icons/github.png"></a>	|		|		|		|		|	<a href="https://www.teamfortress.tv/21178/takyahud"><img src="/icons/tftv.png"></a>	|	<a href="https://github.com/takram/takyahud/archive/master.zip"><img src="/icons/download.png"></a>
