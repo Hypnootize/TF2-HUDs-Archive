@@ -2,7 +2,7 @@
 
 <h1>OUTDATED HUDS LIST</h1>
 <h3>
-135 HUDs Currently Outdated
+134 HUDs Currently Outdated
 </h3>
 Archive of HUDs that are no longer maintained and therefore missing the compatibility with the last TF2 updates, some of these are very old and some not so much! I'm mainly parking these here for storage and research purposes.
 
@@ -85,7 +85,6 @@ Metro Hud	|	Colly - Bender.	|	<a href="https://imgur.com/a/8lykW29"><img src="/i
 MF_Hud	|	Ulty	|	<a href="https://imgur.com/a/p6mHT"><img src="/icons/screenshots.png"></a>	|	<a href="https://github.com/ofnlut/MF_hud"><img src="/icons/github.png"></a>	|		|		|		|	<a href="https://steamcommunity.com/groups/MF_hud"><img src="/icons/steam.png"></a>	|	<a href="https://www.teamfortress.tv/18586/mf-hud-title-pending"><img src="/icons/tftv.png"></a>	|	<a href="https://github.com/ofnlut/MF_hud/archive/master.zip"><img src="/icons/download.png"></a>
 Mikles Hud	|	Unknown	|	<a href="https://i.imgur.com/JcaFUUT.jpg"><img src="/icons/screenshots.png"></a>	|	<a href="https://www.dropbox.com/s/juozuqwn8zahxi1/Mikles%20Hud.7z?dl=0"><img src="/icons/dropbox.png"></a>	|		|		|		|		|		|	<a href="https://www.dropbox.com/s/juozuqwn8zahxi1/Mikles%20Hud.7z?dl=1"><img src="/icons/download.png"></a>
 minHUD	|	Min_	|	<a href="https://imgur.com/a/5c0WY"><img src="/icons/screenshots.png"></a>	|	<a href="https://github.com/m1n/minHUD"><img src="/icons/github.png"></a>	|		|		|		|	<a href="https://steamcommunity.com/groups/minhud"><img src="/icons/steam.png"></a>	|	<a href="https://www.teamfortress.tv/21021/minhud-beta"><img src="/icons/tftv.png"></a>	|	<a href="https://github.com/m1n/minHUD/archive/refs/heads/master.zip"><img src="/icons/download.png"></a>
-Mini Hud	|	Unknown	|	<a href="https://i.imgur.com/e7kzfsj.jpg"><img src="/icons/screenshots.png"></a>	|	<a href="https://www.dropbox.com/s/ue9hh6jc0s5l3da/Mini%20Hud.7z?dl=0"><img src="/icons/dropbox.png"></a>	|		|		|		|		|		|	<a href="https://www.dropbox.com/s/ue9hh6jc0s5l3da/Mini%20Hud.7z?dl=1"><img src="/icons/download.png"></a>
 Minimal Flux Hud	|	kissakala	|	<a href="https://imgur.com/a/SU6Zi"><img src="/icons/screenshots.png"></a>	|	<a href="https://www.dropbox.com/s/r09gkdfd3llmant/MiniFLUX.7z?dl=0"><img src="/icons/dropbox.png"></a>	|		|		|		|		|	<a href="https://www.teamfortress.tv/10935/fluxhud"><img src="/icons/tftv.png"></a>	|	<a href="https://www.dropbox.com/s/r09gkdfd3llmant/MiniFLUX.7z?dl=1"><img src="/icons/download.png"></a>
 MintHUD	|	Rawrsor	|	<a href="https://imgur.com/a/3ooya"><img src="/icons/screenshots.png"></a>	|	<a href="https://github.com/rawrsor/droohud"><img src="/icons/github.png"></a>	|		|		|	<a href="https://gamebanana.com/mods/26744"><img src="/icons/gamebanana.png"></a>	|		|	<a href="https://www.teamfortress.tv/22947/minthud"><img src="/icons/tftv.png"></a>	|	<a href="https://github.com/Rawrsor/DrooHUD/archive/master.zip"><img src="/icons/download.png"></a>
 Morg Hud	|	Morgus	|	<a href="https://imgur.com/a/f9XiU"><img src="/icons/screenshots.png"></a>	|	<a href="https://github.com/ItsMorgus/MorgHUD"><img src="/icons/github.png"></a>	|		|		|		|		|	<a href="https://www.teamfortress.tv/12080/morghud"><img src="/icons/tftv.png"></a>	|	<a href="https://github.com/ItsMorgus/MorgHUD/archive/master.zip"><img src="/icons/download.png"></a>

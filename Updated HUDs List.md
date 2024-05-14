@@ -2,7 +2,7 @@
 
 <h1>UPDATED HUD LIST</h1>
 <h3>
-315 HUDs Currently Updated
+316 HUDs Currently Updated
 </h3>
 This list includes most up to date TF2 HUDs gathered from different sources.
 
@@ -195,6 +195,7 @@ Milky Hud	|	broesel	|	<a href="https://imgur.com/a/d74Up"><img src="/icons/scree
 MilkyRayHUD	|	Revilo	|	<a href="https://imgur.com/a/fnCGNQV"><img src="/icons/screenshots.png"></a>	|	<a href="https://github.com/cooolbros/MilkyRayHUD"><img src="/icons/github.png"></a>	|		|		|	<a href="https://gamebanana.com/guis/30821"><img src="/icons/gamebanana.png"></a>	|		|		|	<a href="https://github.com/cooolbros/MilkyRayHUD/archive/main.zip"><img src="/icons/download.png"></a>
 Minecraft HUD	|	Unknown	|	<a href="https://imgur.com/a/XOpwM1y"><img src="/icons/screenshots.png"></a>	|	<a href="https://www.dropbox.com/s/6px7awwmhzxuhcw/Minecraft%20HUD.7z?dl=0"><img src="/icons/dropbox.png"></a>	|	<a href="https://comfig.app/huds/page/minecraft-hud"><img src="/icons/comfighuds.png"></a>	|		|		|		|		|	<a href="https://www.dropbox.com/s/6px7awwmhzxuhcw/Minecraft%20HUD.7z?dl=1"><img src="/icons/download.png"></a>
 MinHUD	|	Rattian	|	<a href="https://imgur.com/a/rqVOiFy"><img src="/icons/screenshots.png"></a>	|	<a href="https://www.dropbox.com/scl/fi/ujred2tq9wtgmq5jsbmmq/minhud.7z?rlkey=gihlvkxfeachg0ierav0vwf6h&dl=0"><img src="/icons/dropbox.png"></a>	|		|		|	<a href="https://gamebanana.com/mods/429862"><img src="/icons/gamebanana.png"></a>	|		|		|	<a href="https://www.dropbox.com/scl/fi/ujred2tq9wtgmq5jsbmmq/minhud.7z?rlkey=gihlvkxfeachg0ierav0vwf6h&dl=1"><img src="/icons/download.png"></a>
+Mini Hud	|	Unknown	|	<a href="https://imgur.com/a/huehued-lcxp5sm"><img src="/icons/screenshots.png"></a>	|	<a href="https://github.com/TechnoSL/Mini-Hud"><img src="/icons/dropbox.png"></a>	|		|		|		|		|		|	<a href="https://github.com/TechnoSL/Mini-Hud/archive/refs/heads/main.zip"><img src="/icons/download.png"></a>
 minthud	|	mint	|	<a href="https://imgur.com/a/UhhE9IM"><img src="/icons/screenshots.png"></a>	|	<a href="https://github.com/Mint-tf/minthud"><img src="/icons/github.png"></a>	|	<a href="https://comfig.app/huds/page/minthud"><img src="/icons/comfighuds.png"></a>	|	<a href="https://tf2huds.dev/hud/minthud"><img src="/icons/tf2huds.png"></a>	|		|		|	<a href="https://discord.gg/Mint#0404"><img src="/icons/discord.png"></a>	|	<a href="https://github.com/Mint-tf/minthud/archive/refs/heads/master.zip"><img src="/icons/download.png"></a>
 MistHUD	|	weareallimaginary	|	<a href="https://imgur.com/a/WAkSXxv"><img src="/icons/screenshots.png"></a>	|	<a href="https://github.com/weareallimaginary/MistHUD"><img src="/icons/github.png"></a>	|		|		|		|		|		|	<a href="https://github.com/weareallimaginary/MistHUD/archive/main.zip"><img src="/icons/download.png"></a>
 mhud	|	Marblr	|	<a href="https://imgur.com/a/KVHaw"><img src="/icons/screenshots.png"></a>	|	<a href="https://github.com/Marblr/mHUD"><img src="/icons/github.png"></a>	|	<a href="https://comfig.app/huds/page/mhud"><img src="/icons/comfighuds.png"></a>	|	<a href="https://tf2huds.dev/hud/mHUD"><img src="/icons/tf2huds.png"></a>	|		|		|	<a href="https://www.teamfortress.tv/34138/mhud"><img src="/icons/tftv.png"></a>	|	<a href="https://github.com/Marblr/mHUD/archive/master.zip"><img src="/icons/download.png"></a>
