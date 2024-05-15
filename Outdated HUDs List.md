@@ -2,7 +2,7 @@
 
 <h1>OUTDATED HUDS LIST</h1>
 <h3>
-134 HUDs Currently Outdated
+133 HUDs Currently Outdated
 </h3>
 Archive of HUDs that are no longer maintained and therefore missing the compatibility with the last TF2 updates, some of these are very old and some not so much! I'm mainly parking these here for storage and research purposes.
 
@@ -70,7 +70,6 @@ KapowwHUD	|	Unknown	|	<a href="https://i.imgur.com/r5WT4bI.jpg"><img src="/icons
 KN + Garm3n Hud	|	Garm3n	|	<a href="https://i.imgur.com/IIzAFmh.jpg"><img src="/icons/screenshots.png"></a>	|	<a href="https://www.dropbox.com/s/n6a7dfl4y5nwh3a/KN%20%2B%20Garm3n.7z?dl=0"><img src="/icons/dropbox.png"></a>	|		|		|		|		|		|	<a href="https://www.dropbox.com/s/n6a7dfl4y5nwh3a/KN%20%2B%20Garm3n.7z?dl=1"><img src="/icons/download.png"></a>
 Kornel Hud	|	Unknown	|	<a href="https://i.imgur.com/6LumVWp.jpg"><img src="/icons/screenshots.png"></a>	|	<a href="https://www.dropbox.com/s/zlbikxfieagmt6k/Kornel%20Hud.7z?dl=0"><img src="/icons/dropbox.png"></a>	|		|		|		|		|		|	<a href="https://www.dropbox.com/s/zlbikxfieagmt6k/Kornel%20Hud.7z?dl=1"><img src="/icons/download.png"></a>
 Kza Hud	|	Unknown	|	<a href="https://i.imgur.com/Kzbqzgh.jpg"><img src="/icons/screenshots.png"></a>	|	<a href="https://www.dropbox.com/s/rwz43wqzrjw45dp/Kza%20Hud.7z?dl=0"><img src="/icons/dropbox.png"></a>	|		|		|		|		|		|	<a href="https://www.dropbox.com/s/rwz43wqzrjw45dp/Kza%20Hud.7z?dl=1"><img src="/icons/download.png"></a>
-LackHUD	|	Arrythmia	|	<a href="https://imgur.com/a/aYQhZd1"><img src="/icons/screenshots.png"></a>	|	<a href="https://www.dropbox.com/s/erm1pfrwma8ri3g/LackHUD.7z?dl=0"><img src="/icons/dropbox.png"></a>	|		|		|	<a href="https://gamebanana.com/mods/26546"><img src="/icons/gamebanana.png"></a>	|		|		|	<a href="https://www.dropbox.com/s/erm1pfrwma8ri3g/LackHUD.7z?dl=1"><img src="/icons/download.png"></a>
 Life's Good	|	Unknown	|	<a href="https://i.imgur.com/X7GgVlM.jpg"><img src="/icons/screenshots.png"></a>	|	<a href="https://www.dropbox.com/s/mpp1eqmbitv7equ/Life%27s%20Good.7z?dl=0"><img src="/icons/dropbox.png"></a>	|		|		|		|		|		|	<a href="https://www.dropbox.com/s/mpp1eqmbitv7equ/Life%27s%20Good.7z?dl=1"><img src="/icons/download.png"></a>
 m0rehud 1.7	|	m0re	|	<a href="https://i.imgur.com/YM4g5Ly.jpg"><img src="/icons/screenshots.png"></a> <a href="https://www.youtube.com/watch?v=6EHs8FPZ2Yo"><img src="/icons/youtube.png"></a>	|	<a href="https://www.dropbox.com/s/i4lmhof26tyemue/m0rehud%201.7.7z?dl=0"><img src="/icons/dropbox.png"></a>	|		|		|		|		|	<a href="etf2l.org/forum/huds/topic-15718"><img src="/icons/etf2l.png"></a>	|	<a href="https://www.dropbox.com/s/i4lmhof26tyemue/m0rehud%201.7.7z?dl=1"><img src="/icons/download.png"></a>
 m0rehud 2.0	|	m0re	|	<a href="https://i.imgur.com/SLe9j5G.jpg"><img src="/icons/screenshots.png"></a> <a href="https://www.youtube.com/watch?v=6EHs8FPZ2Yo)"><img src="/icons/youtube.png"></a>	|	<a href="https://www.dropbox.com/s/2g13hj4mpfa6fz0/m0rehud%202.0.7z?dl=0"><img src="/icons/dropbox.png"></a>	|		|		|		|		|	<a href="etf2l.org/forum/huds/topic-15718"><img src="/icons/etf2l.png"></a>	|	<a href="https://www.dropbox.com/s/2g13hj4mpfa6fz0/m0rehud%202.0.7z?dl=1"><img src="/icons/download.png"></a>
