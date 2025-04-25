@@ -7,9 +7,9 @@
 * [GameBanana HUDs](https://gamebanana.com/mods/cats/1649)
 
 # HUD INSTALLATION GUIDES
-* [HUD Installation Guide For Windows](https://github.com/Hypnootize/TF2-Hud-Installation-Guides/blob/master/Hud%20Installation%20For%20Windows.md) *by omnibombulator*
-* [HUD Installation Guide For Mac](https://github.com/Hypnootize/TF2-Hud-Installation-Guides/blob/master/Hud%20Installation%20For%20Mac.md) *by omnibombulator*
-* [HUD Installation Guide For Linux](https://github.com/Hypnootize/TF2-Hud-Installation-Guides/blob/master/Hud%20Installation%20For%20Linux.md) *by omnibombulator*
+* [HUD Installation Guide For Windows](https://github.com/Hypnootize/TF2-HUD-GitHub-Resources/blob/main/installation/windows_install.md) *by omnibombulator*
+* [HUD Installation Guide For Mac](https://github.com/Hypnootize/TF2-HUD-GitHub-Resources/blob/main/installation/mac_install.md) *by omnibombulator*
+* [HUD Installation Guide For Linux](https://github.com/Hypnootize/TF2-HUD-GitHub-Resources/blob/main/installation/linux_install.md) *by omnibombulator*
 
 # HUD VIDEO TUTORIALS
 * [TF2 HUD From Scratch Tutorials](https://www.youtube.com/playlist?list=PL5eNrB8RrXXuV3P1nv6NnwF-tCL_KnJIs) *by raysfire*
