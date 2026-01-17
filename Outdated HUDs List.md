@@ -2,7 +2,7 @@
 
 <h1>OUTDATED HUDS LIST</h1>
 <h3>
-133 HUDs Currently Outdated
+132 HUDs Currently Outdated
 </h3>
 Archive of HUDs that are no longer maintained and therefore missing the compatibility with the last TF2 updates, some of these are very old and some not so much! I'm mainly parking these here for storage and research purposes.
 
@@ -135,7 +135,6 @@ waeHUD	|	waezone	|	<a href="https://imgur.com/a/gZAx0"><img src="/icons/screensh
 waeHUD 2.0	|	waezone	|	<a href="https://imgur.com/a/UGdQW"><img src="/icons/screenshots.png"></a>	|	<a href="https://github.com/waezone/waeHUD2.0"><img src="/icons/github.png"></a>	|		|		|		|		|	<a href="https://www.teamfortress.tv/20601/waehud2-0-release"><img src="/icons/tftv.png"></a>	|	<a href="https://github.com/waezone/waeHUD2.0/archive/master.zip"><img src="/icons/download.png"></a>
 Wade Hud	|	Unknown	|	<a href="https://i.imgur.com/v43WdS4.jpg"><img src="/icons/screenshots.png"></a>	|	<a href="https://www.dropbox.com/s/p5lz75blug47quv/Wade%20Hud.7z?dl=0"><img src="/icons/dropbox.png"></a>	|		|		|		|		|		|	<a href="https://www.dropbox.com/s/p5lz75blug47quv/Wade%20Hud.7z?dl=1"><img src="/icons/download.png"></a>
 War Hud	|	wareya	|	<a href="https://i.imgur.com/f61GyFz.jpg"><img src="/icons/screenshots.png"></a>	|	<a href="https://github.com/wareya/warHUD-TF"><img src="/icons/github.png"></a>	|		|		|		|		|	<a href="https://www.teamfortress.tv/4426/warhud"><img src="/icons/tftv.png"></a>	|	<a href="https://github.com/wareya/warHUD-TF/archive/master.zip"><img src="/icons/download.png"></a>
-Washy Hud	|	Unknown	|	<a href="https://i.imgur.com/1NQN0aY.jpg"><img src="/icons/screenshots.png"></a>	|	<a href="https://www.dropbox.com/s/yp37sgt4nn8fanb/Washy%20Hud.7z?dl=0"><img src="/icons/dropbox.png"></a>	|		|		|		|		|		|	<a href="https://www.dropbox.com/s/yp37sgt4nn8fanb/Washy%20Hud.7z?dl=1"><img src="/icons/download.png"></a>
 Yahud Black Box	|	Whayay	|	<a href="https://i.imgur.com/k9ZGviN.jpg"><img src="/icons/screenshots.png"></a>	|	<a href="https://www.dropbox.com/s/cdk6bockrac00im/Yahud%20Black%20Box.7z?dl=0"><img src="/icons/dropbox.png"></a>	|		|		|		|		|		|	<a href="https://www.dropbox.com/s/cdk6bockrac00im/Yahud%20Black%20Box.7z?dl=1"><img src="/icons/download.png"></a>
 Yahud Blank	|	Whayay	|	<a href="https://i.imgur.com/A9NlH6a.jpg"><img src="/icons/screenshots.png"></a>	|	<a href="https://www.dropbox.com/s/grypkh6h0b2850c/Yahud%20Blank.7z?dl=0"><img src="/icons/dropbox.png"></a>	|		|		|		|		|		|	<a href="https://www.dropbox.com/s/grypkh6h0b2850c/Yahud%20Blank.7z?dl=1"><img src="/icons/download.png"></a>
 Yahud C	|	Whayay	|	<a href="https://i.imgur.com/6M8Kptn.jpg"><img src="/icons/screenshots.png"></a>	|	<a href="https://www.dropbox.com/s/sazkop9x3y816mn/Yahud%20C.7z?dl=0"><img src="/icons/dropbox.png"></a>	|		|		|		|		|		|	<a href="https://www.dropbox.com/s/sazkop9x3y816mn/Yahud%20C.7z?dl=1"><img src="/icons/download.png"></a>
